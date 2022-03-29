@@ -1,0 +1,6 @@
+{
+    "test/with_dummyserver/test_connectionpool.py::TestConnectionPoolTimeouts::test_timeout": [
+        0,
+        99
+    ]
+}

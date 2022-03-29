@@ -1,0 +1,74 @@
+{
+    "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[True-int_]": [
+        0,
+        1000
+    ],
+    "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[True-uint]": [
+        0,
+        1000
+    ],
+    "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[True-float_]": [
+        0,
+        1000
+    ],
+    "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[True-unicode_]": [
+        0,
+        1000
+    ],
+    "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[True-timedelta64[h]]": [
+        0,
+        1000
+    ],
+    "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[True-datetime64[D]]": [
+        0,
+        0
+    ],
+    "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[False-int_]": [
+        0,
+        1000
+    ],
+    "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[False-uint]": [
+        0,
+        1000
+    ],
+    "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[False-float_]": [
+        0,
+        1000
+    ],
+    "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[False-unicode_]": [
+        0,
+        1000
+    ],
+    "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[False-timedelta64[h]]": [
+        0,
+        1000
+    ],
+    "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[False-datetime64[D]]": [
+        0,
+        0
+    ],
+    "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[None-int_]": [
+        0,
+        1000
+    ],
+    "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[None-uint]": [
+        0,
+        1000
+    ],
+    "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[None-float_]": [
+        0,
+        1000
+    ],
+    "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[None-unicode_]": [
+        0,
+        1000
+    ],
+    "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[None-timedelta64[h]]": [
+        0,
+        1000
+    ],
+    "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[None-datetime64[D]]": [
+        0,
+        0
+    ]
+}

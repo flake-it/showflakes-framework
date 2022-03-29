@@ -1,0 +1,1 @@
+electrum/tests/test_lnpeer.py::TestPeer::test_fail_pending_htlcs_on_shutdown

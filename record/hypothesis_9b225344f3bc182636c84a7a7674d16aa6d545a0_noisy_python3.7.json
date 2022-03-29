@@ -1,0 +1,114 @@
+{
+    "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[1]": [
+        0,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[2]": [
+        0,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[3]": [
+        0,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[4]": [
+        0,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[5]": [
+        0,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[6]": [
+        0,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[7]": [
+        0,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[8]": [
+        0,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[9]": [
+        0,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[10]": [
+        0,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[11]": [
+        0,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[12]": [
+        0,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_numerics.py::test_decimals_include_inf": [
+        0,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_regex.py::test_any_with_dotall_generate_newline[\\\\A.\\\\Z]": [
+        0,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_regex.py::test_any_with_dotall_generate_newline[(?s)\\\\A.\\\\Z]": [
+        0,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_regex.py::test_any_with_dotall_generate_newline_binary[\\A.\\Z]": [
+        2,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_regex.py::test_any_with_dotall_generate_newline_binary[(?s)\\A.\\Z]": [
+        2,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_regex.py::test_fullmatch_generates_example[a-a]": [
+        0,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_regex.py::test_fullmatch_generates_example[[Aa]-A0]": [
+        0,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_regex.py::test_fullmatch_generates_example[[ab]*-abb0]": [
+        0,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_regex.py::test_fullmatch_generates_example[[Aa]-A1]": [
+        0,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_regex.py::test_fullmatch_generates_example[[ab]*-abb1]": [
+        0,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_regex.py::test_fullmatch_generates_example[[ab]*-aBb]": [
+        2,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_regex.py::test_fullmatch_generates_example[[ab]-A]": [
+        0,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_slices.py::test_stop_will_equal_size": [
+        0,
+        2
+    ],
+    "hypothesis-python/tests/cover/test_slices.py::test_start_will_equal_size": [
+        0,
+        2
+    ],
+    "hypothesis-python/tests/numpy/test_gen_data.py::test_broadcastable_shape_can_generate_arbitrary_ndims": [
+        0,
+        2
+    ],
+    "hypothesis-python/tests/quality/test_float_shrinking.py::test_shrinks_downwards_to_integers_when_fractional": [
+        2,
+        2
+    ]
+}

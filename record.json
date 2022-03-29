@@ -1,0 +1,3826 @@
+{
+    "celery_5c34f472baec3445c478118eb921bcc0bec405c9_noisy": {
+        "t/unit/concurrency/test_thread.py::test_thread_TaskPool::test_on_apply": [
+            1,
+            57
+        ],
+        "t/unit/concurrency/test_thread.py::test_thread_TaskPool::test_info": [
+            0,
+            57
+        ]
+    },
+    "airflow_8325dd5507c95eca15a030b2aa5f3e6391734eb9_noisy": {
+        "tests/models/test_serialized_dag.py::SerializedDagModelTest::test_remove_dags": [
+            1000,
+            1000
+        ]
+    },
+    "boltons_8541a5b37e33ff15968efba5db88c54c142c6d4a_noisy": {
+        "tests/test_funcutils_fb_py37.py::test_wraps_async": [
+            0,
+            1000
+        ]
+    },
+    "Cirq_f38dd30a7e6e075e5887f3edc1fd6cb7907b0d8e_rerun": {
+        "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect0]": [
+            0,
+            1000
+        ],
+        "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect1]": [
+            0,
+            1000
+        ],
+        "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect2]": [
+            0,
+            1000
+        ],
+        "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect3]": [
+            0,
+            1000
+        ],
+        "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect4]": [
+            0,
+            1000
+        ],
+        "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect5]": [
+            0,
+            1000
+        ],
+        "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect6]": [
+            0,
+            1000
+        ],
+        "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect7]": [
+            0,
+            1000
+        ],
+        "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect8]": [
+            0,
+            1000
+        ],
+        "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect9]": [
+            0,
+            1000
+        ],
+        "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect10]": [
+            0,
+            1000
+        ]
+    },
+    "Cirq_b8e15580dc34e10f010768b6252637f0779579de_rerun": {
+        "cirq/contrib/acquaintance/gates_test.py::test_acquaint_part_pairs[part_lens0]": [
+            0,
+            1000
+        ],
+        "cirq/contrib/acquaintance/gates_test.py::test_acquaint_part_pairs[part_lens1]": [
+            0,
+            1000
+        ],
+        "cirq/contrib/acquaintance/gates_test.py::test_acquaint_part_pairs[part_lens2]": [
+            0,
+            1000
+        ]
+    },
+    "Cirq_99080a2403e6469cdcd43840c0d2412fa9f8e05a_noisy": {
+        "cirq/contrib/acquaintance/permutation_test.py::test_linear_permutation_gate_equality[permutation_sets0]": [
+            0,
+            1000
+        ]
+    },
+    "airflow_6584e0d887a6fbc98ab21ba062a03e30cac2923f_noisy": {
+        "tests/jobs/test_local_task_job.py::TestLocalTaskJob::test_heartbeat_failed_fast": [
+            1,
+            40
+        ]
+    },
+    "Cirq_f38dd30a7e6e075e5887f3edc1fd6cb7907b0d8e_noisy": {
+        "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect0]": [
+            0,
+            1000
+        ],
+        "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect1]": [
+            0,
+            1000
+        ],
+        "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect2]": [
+            0,
+            1000
+        ],
+        "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect3]": [
+            0,
+            1000
+        ],
+        "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect4]": [
+            0,
+            1000
+        ],
+        "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect5]": [
+            0,
+            1000
+        ],
+        "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect6]": [
+            0,
+            1000
+        ],
+        "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect7]": [
+            0,
+            1000
+        ],
+        "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect8]": [
+            0,
+            1000
+        ],
+        "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect9]": [
+            0,
+            1000
+        ],
+        "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect10]": [
+            0,
+            1000
+        ]
+    },
+    "airflow_9ab99102ac984257469b0145687f84720298a8cf_noisy": {
+        "tests/jobs/test_local_task_job.py::TestLocalTaskJob::test_mark_failure_on_failure_callback": [
+            1,
+            20
+        ]
+    },
+    "Cirq_b8e15580dc34e10f010768b6252637f0779579de_noisy": {
+        "cirq/contrib/acquaintance/gates_test.py::test_acquaint_part_pairs[part_lens0]": [
+            0,
+            1000
+        ],
+        "cirq/contrib/acquaintance/gates_test.py::test_acquaint_part_pairs[part_lens1]": [
+            0,
+            1000
+        ],
+        "cirq/contrib/acquaintance/gates_test.py::test_acquaint_part_pairs[part_lens2]": [
+            0,
+            1000
+        ]
+    },
+    "Cirq_7a9c598d40e5cc637e3fe647066c591c3236ff33_noisy": {
+        "examples/examples_test.py::test_example_runs_quantum_teleportation": [
+            1,
+            87
+        ]
+    },
+    "celery_5c34f472baec3445c478118eb921bcc0bec405c9_rerun": {
+        "t/unit/concurrency/test_thread.py::test_thread_TaskPool::test_on_apply": [
+            1,
+            14
+        ],
+        "t/unit/concurrency/test_thread.py::test_thread_TaskPool::test_info": [
+            0,
+            14
+        ]
+    },
+    "autograd_7c09501d847621e23c3caa4ea2869db29c5d0711_noisy": {
+        "tests/test_scalar_ops.py::test_arccosh": [
+            1,
+            27
+        ]
+    },
+    "core_354058f020e2435cdb5e27568c007e0140007d0e_noisy": {
+        "tests/components/epson/test_config_flow.py::test_import[pyloop]": [
+            0,
+            1000
+        ]
+    },
+    "boltons_8541a5b37e33ff15968efba5db88c54c142c6d4a_rerun": {
+        "tests/test_funcutils_fb_py37.py::test_wraps_async": [
+            0,
+            1000
+        ]
+    },
+    "Cirq_7a9c598d40e5cc637e3fe647066c591c3236ff33_rerun": {
+        "examples/examples_test.py::test_example_runs_quantum_teleportation": [
+            1,
+            622
+        ]
+    },
+    "airflow_8325dd5507c95eca15a030b2aa5f3e6391734eb9_rerun": {
+        "tests/models/test_serialized_dag.py::SerializedDagModelTest::test_remove_dags": [
+            1000,
+            1000
+        ]
+    },
+    "airflow_e7b8eb7f3189fa587c49a2856dfd570f7625ca78_noisy": {
+        "tests/jobs/test_scheduler_job.py::TestDagFileProcessor::test_dag_file_processor_process_task_instances_depends_on_past_0": [
+            0,
+            22
+        ],
+        "tests/jobs/test_scheduler_job.py::TestDagFileProcessor::test_dag_file_processor_process_task_instances_depends_on_past_1_up_for_retry": [
+            1,
+            22
+        ],
+        "tests/jobs/test_scheduler_job.py::TestDagFileProcessor::test_dag_file_processor_process_task_instances_depends_on_past_2_up_for_reschedule": [
+            0,
+            22
+        ]
+    },
+    "Cirq_c8beade4d36c0b97321427e87cad2e1997017615_noisy": {
+        "cirq/experiments/n_qubit_tomography_test.py::test_state_tomography_diagonal": [
+            0,
+            655
+        ],
+        "cirq/experiments/n_qubit_tomography_test.py::test_state_tomography_ghz_state": [
+            0,
+            655
+        ],
+        "cirq/experiments/n_qubit_tomography_test.py::test_density_matrix_from_state_tomography_is_correct[circuit0-qubits0]": [
+            0,
+            655
+        ],
+        "cirq/experiments/n_qubit_tomography_test.py::test_density_matrix_from_state_tomography_is_correct[circuit1-qubits1]": [
+            0,
+            655
+        ],
+        "cirq/experiments/n_qubit_tomography_test.py::test_density_matrix_from_state_tomography_is_correct[circuit2-qubits2]": [
+            0,
+            655
+        ],
+        "cirq/experiments/n_qubit_tomography_test.py::test_density_matrix_from_state_tomography_is_correct[circuit3-qubits3]": [
+            0,
+            655
+        ],
+        "cirq/experiments/n_qubit_tomography_test.py::test_density_matrix_from_state_tomography_is_correct[circuit4-qubits4]": [
+            0,
+            655
+        ],
+        "cirq/experiments/n_qubit_tomography_test.py::test_agrees_with_two_qubit_state_tomography[circuit0]": [
+            0,
+            655
+        ],
+        "cirq/experiments/n_qubit_tomography_test.py::test_agrees_with_two_qubit_state_tomography[circuit1]": [
+            0,
+            655
+        ],
+        "cirq/experiments/n_qubit_tomography_test.py::test_agrees_with_two_qubit_state_tomography[circuit2]": [
+            1,
+            655
+        ]
+    },
+    "airflow_9ab99102ac984257469b0145687f84720298a8cf_rerun": {
+        "tests/jobs/test_local_task_job.py::TestLocalTaskJob::test_mark_failure_on_failure_callback": [
+            1,
+            224
+        ]
+    },
+    "channels_0a3202d2c72bb019c7166850fb6c520368abb0c2_noisy": {
+        "tests/test_generic_http.py::test_per_scope_consumers": [
+            1,
+            506
+        ]
+    },
+    "Cirq_99080a2403e6469cdcd43840c0d2412fa9f8e05a_rerun": {
+        "cirq/contrib/acquaintance/permutation_test.py::test_linear_permutation_gate_equality[permutation_sets0]": [
+            0,
+            1000
+        ]
+    },
+    "channels_0a3202d2c72bb019c7166850fb6c520368abb0c2_rerun": {
+        "tests/test_generic_http.py::test_per_scope_consumers": [
+            0,
+            1000
+        ]
+    },
+    "airflow_e7b8eb7f3189fa587c49a2856dfd570f7625ca78_rerun": {
+        "tests/jobs/test_scheduler_job.py::TestDagFileProcessor::test_dag_file_processor_process_task_instances_depends_on_past_0": [
+            0,
+            1000
+        ],
+        "tests/jobs/test_scheduler_job.py::TestDagFileProcessor::test_dag_file_processor_process_task_instances_depends_on_past_1_up_for_retry": [
+            0,
+            1000
+        ],
+        "tests/jobs/test_scheduler_job.py::TestDagFileProcessor::test_dag_file_processor_process_task_instances_depends_on_past_2_up_for_reschedule": [
+            0,
+            1000
+        ]
+    },
+    "airflow_6584e0d887a6fbc98ab21ba062a03e30cac2923f_rerun": {
+        "tests/jobs/test_local_task_job.py::TestLocalTaskJob::test_heartbeat_failed_fast": [
+            1,
+            7
+        ]
+    },
+    "autograd_7c09501d847621e23c3caa4ea2869db29c5d0711_rerun": {
+        "tests/test_scalar_ops.py::test_arccosh": [
+            0,
+            1000
+        ]
+    },
+    "core_354058f020e2435cdb5e27568c007e0140007d0e_rerun": {
+        "tests/components/epson/test_config_flow.py::test_import[pyloop]": [
+            0,
+            1000
+        ]
+    },
+    "Cirq_c8beade4d36c0b97321427e87cad2e1997017615_rerun": {
+        "cirq/experiments/n_qubit_tomography_test.py::test_state_tomography_diagonal": [
+            0,
+            1000
+        ],
+        "cirq/experiments/n_qubit_tomography_test.py::test_state_tomography_ghz_state": [
+            0,
+            1000
+        ],
+        "cirq/experiments/n_qubit_tomography_test.py::test_density_matrix_from_state_tomography_is_correct[circuit0-qubits0]": [
+            0,
+            1000
+        ],
+        "cirq/experiments/n_qubit_tomography_test.py::test_density_matrix_from_state_tomography_is_correct[circuit1-qubits1]": [
+            0,
+            1000
+        ],
+        "cirq/experiments/n_qubit_tomography_test.py::test_density_matrix_from_state_tomography_is_correct[circuit2-qubits2]": [
+            0,
+            1000
+        ],
+        "cirq/experiments/n_qubit_tomography_test.py::test_density_matrix_from_state_tomography_is_correct[circuit3-qubits3]": [
+            0,
+            1000
+        ],
+        "cirq/experiments/n_qubit_tomography_test.py::test_density_matrix_from_state_tomography_is_correct[circuit4-qubits4]": [
+            0,
+            1000
+        ],
+        "cirq/experiments/n_qubit_tomography_test.py::test_agrees_with_two_qubit_state_tomography[circuit0]": [
+            0,
+            1000
+        ],
+        "cirq/experiments/n_qubit_tomography_test.py::test_agrees_with_two_qubit_state_tomography[circuit1]": [
+            0,
+            1000
+        ],
+        "cirq/experiments/n_qubit_tomography_test.py::test_agrees_with_two_qubit_state_tomography[circuit2]": [
+            0,
+            1000
+        ]
+    },
+    "graphene_eb7966eca7f9f90da1ac60c97aafa542ae3d0b38_noisy": {
+        "graphene/types/tests/test_datetime.py::test_date_query": [
+            0,
+            17
+        ],
+        "graphene/types/tests/test_datetime.py::test_time_query": [
+            0,
+            17
+        ],
+        "graphene/types/tests/test_datetime.py::test_datetime_query_variable": [
+            0,
+            17
+        ],
+        "graphene/types/tests/test_datetime.py::test_date_query_variable": [
+            0,
+            17
+        ],
+        "graphene/types/tests/test_datetime.py::test_time_query_variable": [
+            1,
+            17
+        ],
+        "graphene/types/tests/test_datetime.py::test_bad_variables": [
+            0,
+            0
+        ]
+    },
+    "flask_6f7762538bffe3ce9d03508ecab230bfff3e3dcd_rerun": {
+        "tests/test_cli.py::test_lazy_load_error": [
+            0,
+            1000
+        ]
+    },
+    "flask_6f7762538bffe3ce9d03508ecab230bfff3e3dcd_noisy": {
+        "tests/test_cli.py::test_lazy_load_error": [
+            0,
+            1000
+        ]
+    },
+    "core_e97792adf06b3520de71ef6fc851458067365e4b_rerun": {
+        "tests/components/huawei_lte/test_config_flow.py::test_success[pyloop]": [
+            0,
+            1000
+        ]
+    },
+    "faust_a33be225e6ff63da17d288a4593d05bd57d062b6_noisy": {
+        "t/unit/transport/test_consumer.py::test_Consumer::test_commit_handler": [
+            1,
+            145
+        ]
+    },
+    "faust_723587f6655400123852734a1cf01ad953ab8afa_noisy": {
+        "t/regression/i323/test_autodiscover.py::test_main": [
+            1,
+            104
+        ],
+        "t/regression/i324/test_autodiscover.py::test_main": [
+            0,
+            104
+        ]
+    },
+    "core_a6e9a312a309c64eb96118cacfb32f8ca8d79f2d_noisy": {
+        "tests/components/media_player/test_init.py::test_get_image[pyloop]": [
+            1,
+            65
+        ]
+    },
+    "faust_a33be225e6ff63da17d288a4593d05bd57d062b6_rerun": {
+        "t/unit/transport/test_consumer.py::test_Consumer::test_commit_handler": [
+            17,
+            18
+        ]
+    },
+    "core_056e71266763446b7043d1bb9fdd8821d10de8c5_noisy": {
+        "tests/components/dyson/test_climate.py::test_purehotcool_empty_env_attributes[pyloop]": [
+            1,
+            17
+        ]
+    },
+    "core_a6e9a312a309c64eb96118cacfb32f8ca8d79f2d_rerun": {
+        "tests/components/media_player/test_init.py::test_get_image[pyloop]": [
+            1,
+            3
+        ]
+    },
+    "core_6ccdf62e6b79c946b19037b44388fc40d8796296_rerun": {
+        "tests/components/onvif/test_config_flow.py::test_flow_discovered_devices[pyloop]": [
+            0,
+            1000
+        ],
+        "tests/components/onvif/test_config_flow.py::test_flow_manual_entry[pyloop]": [
+            0,
+            1000
+        ],
+        "tests/components/onvif/test_config_flow.py::test_flow_import_no_mac[pyloop]": [
+            0,
+            1000
+        ]
+    },
+    "electrum_5c91212fabe1e4c674acbf0ff84fb2ef4674e86d_noisy": {
+        "electrum/tests/test_lnpeer.py::TestPeer::test_fail_pending_htlcs_on_shutdown": [
+            0,
+            1000
+        ]
+    },
+    "faust_d2d387479a6d9d708aa67e89d535766446ec6b20_rerun": {
+        "t/functional/test_streams.py::test_events": [
+            1000,
+            1000
+        ]
+    },
+    "faust_d2d387479a6d9d708aa67e89d535766446ec6b20_noisy": {
+        "t/functional/test_streams.py::test_events": [
+            1000,
+            1000
+        ]
+    },
+    "core_00387bf87031857e8ffc249c11e812b0e6af14b2_rerun": {
+        "tests/components/plex/test_config_flow.py::test_manual_config[pyloop]": [
+            1,
+            9
+        ]
+    },
+    "core_00387bf87031857e8ffc249c11e812b0e6af14b2_noisy": {
+        "tests/components/plex/test_config_flow.py::test_manual_config[pyloop]": [
+            1,
+            63
+        ]
+    },
+    "electrum_5c91212fabe1e4c674acbf0ff84fb2ef4674e86d_rerun": {
+        "electrum/tests/test_lnpeer.py::TestPeer::test_fail_pending_htlcs_on_shutdown": [
+            0,
+            1000
+        ]
+    },
+    "core_056e71266763446b7043d1bb9fdd8821d10de8c5_rerun": {
+        "tests/components/dyson/test_climate.py::test_purehotcool_empty_env_attributes[pyloop]": [
+            1,
+            4
+        ]
+    },
+    "graphene_eb7966eca7f9f90da1ac60c97aafa542ae3d0b38_rerun": {
+        "graphene/types/tests/test_datetime.py::test_date_query": [
+            0,
+            8
+        ],
+        "graphene/types/tests/test_datetime.py::test_time_query": [
+            1,
+            8
+        ],
+        "graphene/types/tests/test_datetime.py::test_datetime_query_variable": [
+            0,
+            8
+        ],
+        "graphene/types/tests/test_datetime.py::test_date_query_variable": [
+            0,
+            8
+        ],
+        "graphene/types/tests/test_datetime.py::test_time_query_variable": [
+            0,
+            8
+        ],
+        "graphene/types/tests/test_datetime.py::test_bad_variables": [
+            0,
+            0
+        ]
+    },
+    "faust_723587f6655400123852734a1cf01ad953ab8afa_rerun": {
+        "t/regression/i323/test_autodiscover.py::test_main": [
+            0,
+            1000
+        ],
+        "t/regression/i324/test_autodiscover.py::test_main": [
+            0,
+            1000
+        ]
+    },
+    "core_e97792adf06b3520de71ef6fc851458067365e4b_noisy": {
+        "tests/components/huawei_lte/test_config_flow.py::test_success[pyloop]": [
+            0,
+            1000
+        ]
+    },
+    "core_6ccdf62e6b79c946b19037b44388fc40d8796296_noisy": {
+        "tests/components/onvif/test_config_flow.py::test_flow_discovered_devices[pyloop]": [
+            0,
+            1000
+        ],
+        "tests/components/onvif/test_config_flow.py::test_flow_manual_entry[pyloop]": [
+            0,
+            1000
+        ],
+        "tests/components/onvif/test_config_flow.py::test_flow_import_no_mac[pyloop]": [
+            0,
+            1000
+        ]
+    },
+    "hypothesis_a228bc8361ae642d75055e2c02f322929a4134e6_noisy": {
+        "hypothesis-python/tests/cover/test_statistical_events.py::test_flaky_exit": [
+            0,
+            1000
+        ]
+    },
+    "hypothesis_25e3a4bc80ec37fd64aec6d6d6cb59c94555165b_noisy": {
+        "hypothesis-python/tests/cover/test_slippage.py::test_raises_multiple_failures_with_varying_type": [
+            0,
+            1000
+        ]
+    },
+    "matplotlib_476445234b7a7046893b56a132d2220a295827e4_rerun": {
+        "lib/matplotlib/tests/test_axes.py::test_stem[png-w/ line collection]": [
+            0,
+            1000
+        ],
+        "lib/matplotlib/tests/test_axes.py::test_stem[png-w/o line collection]": [
+            0,
+            1000
+        ]
+    },
+    "hypothesis_8cfd0eb88e773c410eb6c7bee2bfbe6c757a30d5_rerun": {
+        "hypothesis-python/tests/nocover/test_database_usage.py::test_respects_max_examples_in_database_usage": [
+            1,
+            175
+        ]
+    },
+    "hypothesis_a228bc8361ae642d75055e2c02f322929a4134e6_rerun": {
+        "hypothesis-python/tests/cover/test_statistical_events.py::test_flaky_exit": [
+            0,
+            1000
+        ]
+    },
+    "matplotlib_476445234b7a7046893b56a132d2220a295827e4_noisy": {
+        "lib/matplotlib/tests/test_axes.py::test_stem[png-w/ line collection]": [
+            0,
+            1000
+        ],
+        "lib/matplotlib/tests/test_axes.py::test_stem[png-w/o line collection]": [
+            0,
+            1000
+        ]
+    },
+    "geopy_8b25679ed2d5bafbf1d17d893826160e09e3fb67_noisy": {
+        "test/geocoders/nominatim.py::NominatimTestCase::test_limit": [
+            0,
+            1000
+        ]
+    },
+    "hypothesis_f45ff921dc6deca0f36e4097d3a72e9ec4ac97ef_rerun": {
+        "hypothesis-python/tests/cover/test_testdecorators.py::test_when_set_to_no_simplifies_runs_failing_example_twice": [
+            0,
+            1000
+        ]
+    },
+    "mitmproxy_5af57cfa996fcd27a395064a5e5507f9357d0d5b_noisy": {
+        "test/mitmproxy/proxy/test_server.py::TestStreamRequest::test_stream_chunked": [
+            1000,
+            1000
+        ]
+    },
+    "kafka-python_d620703305667f6292075357b36cb98681dc627b_noisy": {
+        "test/test_conn.py::test_blacked_out": [
+            0,
+            1000
+        ],
+        "test/test_conn.py::test_connection_delay": [
+            0,
+            1000
+        ]
+    },
+    "mitmproxy_5af57cfa996fcd27a395064a5e5507f9357d0d5b_rerun": {
+        "test/mitmproxy/proxy/test_server.py::TestStreamRequest::test_stream_chunked": [
+            1000,
+            1000
+        ]
+    },
+    "hypothesis_6d7cdd31e6cb61d0a792dc0187897b3c9cb91cb6_rerun": {
+        "hypothesis-python/tests/cover/test_core.py::test_given_shrinks_pytest_helper_errors": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_core.py::test_pytest_skip_skips_shrinking": [
+            0,
+            1000
+        ]
+    },
+    "matplotlib_f3885702839be2e1c257b03bff9cb770251a0187_rerun": {
+        "lib/mpl_toolkits/tests/test_axes_grid.py::test_imagegrid_cbar_mode_edge[png-False]": [
+            0,
+            1000
+        ],
+        "lib/mpl_toolkits/tests/test_axes_grid.py::test_imagegrid_cbar_mode_edge[png-True]": [
+            0,
+            1000
+        ]
+    },
+    "mitmproxy_af1a4ffdcd4c98afefd4228bbc2bc276cfd8436f_noisy": {
+        "test/mitmproxy/addons/test_clientplayback.py::TestHTTPProxy::test_replay": [
+            0,
+            2
+        ],
+        "test/mitmproxy/addons/test_clientplayback.py::TestHTTPSProxy::test_replay": [
+            2,
+            2
+        ],
+        "test/mitmproxy/addons/test_clientplayback.py::TestUpstreamProxy::test_replay": [
+            1,
+            2
+        ]
+    },
+    "hypothesis_f45ff921dc6deca0f36e4097d3a72e9ec4ac97ef_noisy": {
+        "hypothesis-python/tests/cover/test_testdecorators.py::test_when_set_to_no_simplifies_runs_failing_example_twice": [
+            0,
+            1000
+        ]
+    },
+    "kafka-python_d620703305667f6292075357b36cb98681dc627b_rerun": {
+        "test/test_conn.py::test_blacked_out": [
+            0,
+            1000
+        ],
+        "test/test_conn.py::test_connection_delay": [
+            0,
+            1000
+        ]
+    },
+    "hypothesis_8cfd0eb88e773c410eb6c7bee2bfbe6c757a30d5_noisy": {
+        "hypothesis-python/tests/nocover/test_database_usage.py::test_respects_max_examples_in_database_usage": [
+            1,
+            86
+        ]
+    },
+    "hypothesis_6d7cdd31e6cb61d0a792dc0187897b3c9cb91cb6_noisy": {
+        "hypothesis-python/tests/cover/test_core.py::test_given_shrinks_pytest_helper_errors": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_core.py::test_pytest_skip_skips_shrinking": [
+            0,
+            1000
+        ]
+    },
+    "matplotlib_e9a2918d434bb82b60c51efbc2d01e1f82b3f060_noisy": {
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[ps-portrait]": [
+            0,
+            1000
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[ps-landscape]": [
+            0,
+            1000
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[ps with distiller=ghostscript-portrait]": [
+            0,
+            1000
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[ps with distiller=ghostscript-landscape]": [
+            0,
+            1000
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[ps with distiller=xpdf-portrait]": [
+            0,
+            1000
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[ps with distiller=xpdf-landscape]": [
+            0,
+            1000
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[ps with usetex-portrait]": [
+            0,
+            0
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[ps with usetex-landscape]": [
+            0,
+            0
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[eps-portrait]": [
+            0,
+            1000
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[eps-landscape]": [
+            0,
+            1000
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[eps afm-portrait]": [
+            0,
+            1000
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[eps afm-landscape]": [
+            0,
+            1000
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[eps with usetex-portrait]": [
+            0,
+            0
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[eps with usetex-landscape]": [
+            0,
+            0
+        ]
+    },
+    "hypothesis_9b225344f3bc182636c84a7a7674d16aa6d545a0_noisy": {
+        "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[1]": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[2]": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[3]": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[4]": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[5]": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[6]": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[7]": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[8]": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[9]": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[10]": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[11]": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[12]": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_numerics.py::test_decimals_include_inf": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_regex.py::test_any_with_dotall_generate_newline[\\\\A.\\\\Z]": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_regex.py::test_any_with_dotall_generate_newline[(?s)\\\\A.\\\\Z]": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_regex.py::test_any_with_dotall_generate_newline_binary[\\A.\\Z]": [
+            63,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_regex.py::test_any_with_dotall_generate_newline_binary[(?s)\\A.\\Z]": [
+            64,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_regex.py::test_fullmatch_generates_example[a-a]": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_regex.py::test_fullmatch_generates_example[[Aa]-A0]": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_regex.py::test_fullmatch_generates_example[[ab]*-abb0]": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_regex.py::test_fullmatch_generates_example[[Aa]-A1]": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_regex.py::test_fullmatch_generates_example[[ab]*-abb1]": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_regex.py::test_fullmatch_generates_example[[ab]*-aBb]": [
+            64,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_regex.py::test_fullmatch_generates_example[[ab]-A]": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_slices.py::test_stop_will_equal_size": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/cover/test_slices.py::test_start_will_equal_size": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/numpy/test_gen_data.py::test_broadcastable_shape_can_generate_arbitrary_ndims": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/pandas/test_data_frame.py::test_uniqueness_does_not_affect_other_rows_2": [
+            0,
+            64
+        ],
+        "hypothesis-python/tests/quality/test_float_shrinking.py::test_shrinks_downwards_to_integers_when_fractional": [
+            64,
+            64
+        ]
+    },
+    "hypothesis_9b225344f3bc182636c84a7a7674d16aa6d545a0_rerun": {
+        "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[1]": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[2]": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[3]": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[4]": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[5]": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[6]": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[7]": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[8]": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[9]": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[10]": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[11]": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month[12]": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_numerics.py::test_decimals_include_inf": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_regex.py::test_any_with_dotall_generate_newline[\\\\A.\\\\Z]": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_regex.py::test_any_with_dotall_generate_newline[(?s)\\\\A.\\\\Z]": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_regex.py::test_any_with_dotall_generate_newline_binary[\\A.\\Z]": [
+            1000,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_regex.py::test_any_with_dotall_generate_newline_binary[(?s)\\A.\\Z]": [
+            1000,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_regex.py::test_fullmatch_generates_example[a-a]": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_regex.py::test_fullmatch_generates_example[[Aa]-A0]": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_regex.py::test_fullmatch_generates_example[[ab]*-abb0]": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_regex.py::test_fullmatch_generates_example[[Aa]-A1]": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_regex.py::test_fullmatch_generates_example[[ab]*-abb1]": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_regex.py::test_fullmatch_generates_example[[ab]*-aBb]": [
+            1000,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_regex.py::test_fullmatch_generates_example[[ab]-A]": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_slices.py::test_stop_will_equal_size": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/cover/test_slices.py::test_start_will_equal_size": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/numpy/test_gen_data.py::test_broadcastable_shape_can_generate_arbitrary_ndims": [
+            0,
+            1000
+        ],
+        "hypothesis-python/tests/quality/test_float_shrinking.py::test_shrinks_downwards_to_integers_when_fractional": [
+            1000,
+            1000
+        ]
+    },
+    "matplotlib_f3885702839be2e1c257b03bff9cb770251a0187_noisy": {
+        "lib/mpl_toolkits/tests/test_axes_grid.py::test_imagegrid_cbar_mode_edge[png-False]": [
+            0,
+            1000
+        ],
+        "lib/mpl_toolkits/tests/test_axes_grid.py::test_imagegrid_cbar_mode_edge[png-True]": [
+            0,
+            1000
+        ]
+    },
+    "mitmproxy_af1a4ffdcd4c98afefd4228bbc2bc276cfd8436f_rerun": {
+        "test/mitmproxy/addons/test_clientplayback.py::TestHTTPProxy::test_replay": [
+            0,
+            8
+        ],
+        "test/mitmproxy/addons/test_clientplayback.py::TestHTTPSProxy::test_replay": [
+            0,
+            8
+        ],
+        "test/mitmproxy/addons/test_clientplayback.py::TestUpstreamProxy::test_replay": [
+            1,
+            8
+        ]
+    },
+    "matplotlib_e9a2918d434bb82b60c51efbc2d01e1f82b3f060_rerun": {
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[ps-portrait]": [
+            0,
+            1000
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[ps-landscape]": [
+            0,
+            1000
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[ps with distiller=ghostscript-portrait]": [
+            0,
+            1000
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[ps with distiller=ghostscript-landscape]": [
+            0,
+            1000
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[ps with distiller=xpdf-portrait]": [
+            0,
+            1000
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[ps with distiller=xpdf-landscape]": [
+            0,
+            1000
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[ps with usetex-portrait]": [
+            0,
+            0
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[ps with usetex-landscape]": [
+            0,
+            0
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[eps-portrait]": [
+            0,
+            1000
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[eps-landscape]": [
+            0,
+            1000
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[eps afm-portrait]": [
+            0,
+            1000
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[eps afm-landscape]": [
+            0,
+            1000
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[eps with usetex-portrait]": [
+            0,
+            0
+        ],
+        "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[eps with usetex-landscape]": [
+            0,
+            0
+        ]
+    },
+    "hypothesis_25e3a4bc80ec37fd64aec6d6d6cb59c94555165b_rerun": {
+        "hypothesis-python/tests/cover/test_slippage.py::test_raises_multiple_failures_with_varying_type": [
+            0,
+            1000
+        ]
+    },
+    "geopy_8b25679ed2d5bafbf1d17d893826160e09e3fb67_rerun": {
+        "test/geocoders/nominatim.py::NominatimTestCase::test_limit": [
+            0,
+            1000
+        ]
+    },
+    "pytest_e377c884951d3ae1d9cfb5c0a5ce5726f0a3da32_noisy": {
+        "testing/test_stepwise.py::test_fail_and_continue_with_stepwise": [
+            0,
+            1000
+        ],
+        "testing/test_stepwise.py::test_run_with_skip_option": [
+            0,
+            1000
+        ],
+        "testing/test_stepwise.py::test_fail_on_errors": [
+            0,
+            1000
+        ],
+        "testing/test_stepwise.py::test_change_testfile": [
+            0,
+            1000
+        ]
+    },
+    "pandas_cb0d339f48b2cf27d37f6a97be2861899ec05ff2_noisy": {
+        "pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs[gzip-utf-8]": [
+            0,
+            13
+        ],
+        "pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs[gzip-cp1251]": [
+            0,
+            13
+        ],
+        "pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs[bz2-utf-8]": [
+            0,
+            13
+        ],
+        "pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs[bz2-cp1251]": [
+            0,
+            13
+        ],
+        "pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs[zip-utf-8]": [
+            0,
+            13
+        ],
+        "pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs[zip-cp1251]": [
+            0,
+            13
+        ],
+        "pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs[xz-utf-8]": [
+            0,
+            13
+        ],
+        "pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs[xz-cp1251]": [
+            0,
+            13
+        ],
+        "pandas/tests/io/pytables/test_select.py::test_select_as_multiple": [
+            1,
+            13
+        ]
+    },
+    "pytest_143e3ab84631280ddf7f031e4c6f91ca4ac2b500_noisy": {
+        "testing/logging/test_reporting.py::test_collection_collect_only_live_logging[-q]": [
+            0,
+            1000
+        ],
+        "testing/logging/test_reporting.py::test_collection_collect_only_live_logging[-qq]": [
+            0,
+            1000
+        ],
+        "testing/logging/test_reporting.py::test_collection_collect_only_live_logging[]": [
+            0,
+            1000
+        ]
+    },
+    "pandas_ac318d26cdbe3d10030f4863b84a06e938da9bba_rerun": {
+        "pandas/tests/plotting/test_datetimelike.py::TestTSPlot::test_time": [
+            0,
+            1000
+        ]
+    },
+    "pytest_c98bc4cd3d687fe9b392d8eecd905627191d4f06_noisy": {
+        "testing/acceptance_test.py::TestDurations::test_calls": [
+            0,
+            1000
+        ],
+        "testing/acceptance_test.py::TestDurations::test_calls_show_2": [
+            0,
+            1000
+        ],
+        "testing/acceptance_test.py::TestDurations::test_calls_showall": [
+            0,
+            1000
+        ],
+        "testing/acceptance_test.py::TestDurations::test_calls_showall_verbose": [
+            0,
+            1000
+        ],
+        "testing/acceptance_test.py::TestDurations::test_with_deselected": [
+            0,
+            1000
+        ],
+        "testing/acceptance_test.py::TestDurations::test_with_failing_collection": [
+            0,
+            1000
+        ],
+        "testing/acceptance_test.py::TestDurations::test_with_not": [
+            0,
+            1000
+        ],
+        "testing/acceptance_test.py::TestDurationsWithFixture::test_setup_function": [
+            0,
+            1000
+        ],
+        "testing/test_junitxml.py::TestPython::test_timing_function": [
+            0,
+            1000
+        ]
+    },
+    "PySyft_ce37c64b16cbe064e24d3f5d264683cf2cfcb484_rerun": {
+        "test/federated/test_federated_client.py::test_fit[gaussian_mixture-1-cpu]": [
+            0,
+            1000
+        ],
+        "test/federated/test_federated_client.py::test_fit[gaussian_mixture-10-cpu]": [
+            0,
+            1000
+        ],
+        "test/federated/test_federated_client.py::test_fit[another_dataset-1-cpu]": [
+            0,
+            1000
+        ],
+        "test/federated/test_federated_client.py::test_fit[gaussian_mixture-10-cuda]": [
+            0,
+            1000
+        ]
+    },
+    "pytest_c98bc4cd3d687fe9b392d8eecd905627191d4f06_rerun": {
+        "testing/acceptance_test.py::TestDurations::test_calls": [
+            0,
+            1000
+        ],
+        "testing/acceptance_test.py::TestDurations::test_calls_show_2": [
+            0,
+            1000
+        ],
+        "testing/acceptance_test.py::TestDurations::test_calls_showall": [
+            0,
+            1000
+        ],
+        "testing/acceptance_test.py::TestDurations::test_calls_showall_verbose": [
+            0,
+            1000
+        ],
+        "testing/acceptance_test.py::TestDurations::test_with_deselected": [
+            0,
+            1000
+        ],
+        "testing/acceptance_test.py::TestDurations::test_with_failing_collection": [
+            0,
+            1000
+        ],
+        "testing/acceptance_test.py::TestDurations::test_with_not": [
+            0,
+            1000
+        ],
+        "testing/acceptance_test.py::TestDurationsWithFixture::test_setup_function": [
+            0,
+            1000
+        ],
+        "testing/test_junitxml.py::TestPython::test_timing_function": [
+            0,
+            1000
+        ]
+    },
+    "pandas_ac318d26cdbe3d10030f4863b84a06e938da9bba_noisy": {
+        "pandas/tests/plotting/test_datetimelike.py::TestTSPlot::test_time": [
+            0,
+            1000
+        ]
+    },
+    "PySyft_08a49e018b3c506c086d7a36542b200b67797728_rerun": {
+        "test/torch/test_hook.py::test_local_remote_gradient_clipping": [
+            0,
+            1000
+        ]
+    },
+    "pytest_e6e300e729dd33956e5448d8be9a0b1540b4e53a_noisy": {
+        "testing/acceptance_test.py::test_warn_on_async_function": [
+            0,
+            1000
+        ],
+        "testing/acceptance_test.py::test_warn_on_async_gen_function": [
+            0,
+            1000
+        ]
+    },
+    "PySyft_08a49e018b3c506c086d7a36542b200b67797728_noisy": {
+        "test/torch/test_hook.py::test_local_remote_gradient_clipping": [
+            1,
+            3
+        ]
+    },
+    "pandas_fb62fcf91c874e9c24fa83693c4e6e613f35f864_noisy": {
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[True-int_]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[True-uint]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[True-float_]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[True-unicode_]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[True-timedelta64[h]]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[True-datetime64[D]]": [
+            0,
+            0
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[False-int_]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[False-uint]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[False-float_]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[False-unicode_]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[False-timedelta64[h]]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[False-datetime64[D]]": [
+            0,
+            0
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[None-int_]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[None-uint]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[None-float_]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[None-unicode_]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[None-timedelta64[h]]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[None-datetime64[D]]": [
+            0,
+            0
+        ]
+    },
+    "pandas_dcf7fce19a662a86a2892396472e052ab9f69708_noisy": {
+        "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_csv-writer_kwargs0-os]": [
+            0,
+            1000
+        ],
+        "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_excel-writer_kwargs1-xlwt]": [
+            0,
+            1000
+        ],
+        "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_feather-writer_kwargs2-feather]": [
+            0,
+            0
+        ],
+        "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_html-writer_kwargs3-os]": [
+            0,
+            1000
+        ],
+        "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_json-writer_kwargs4-os]": [
+            0,
+            1000
+        ],
+        "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_latex-writer_kwargs5-os]": [
+            0,
+            1000
+        ],
+        "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_msgpack-writer_kwargs6-os]": [
+            0,
+            1000
+        ],
+        "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_pickle-writer_kwargs7-os]": [
+            0,
+            1000
+        ],
+        "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_stata-writer_kwargs8-os]": [
+            0,
+            1000
+        ]
+    },
+    "pandas_1c0eb45803f7c901d5cd04480e0b4327912a01c2_noisy": {
+        "pandas/tests/resample/test_resample_api.py::test_pipe": [
+            0,
+            2
+        ],
+        "pandas/tests/resample/test_resample_api.py::test_getitem": [
+            0,
+            2
+        ],
+        "pandas/tests/resample/test_resample_api.py::test_select_bad_cols[key0]": [
+            1,
+            2
+        ],
+        "pandas/tests/resample/test_resample_api.py::test_select_bad_cols[key1]": [
+            1,
+            2
+        ],
+        "pandas/tests/resample/test_resample_api.py::test_attribute_access": [
+            0,
+            2
+        ],
+        "pandas/tests/resample/test_resample_api.py::tests_skip_nuisance": [
+            0,
+            2
+        ]
+    },
+    "pytest_e377c884951d3ae1d9cfb5c0a5ce5726f0a3da32_rerun": {
+        "testing/test_stepwise.py::test_fail_and_continue_with_stepwise": [
+            0,
+            1000
+        ],
+        "testing/test_stepwise.py::test_run_with_skip_option": [
+            0,
+            1000
+        ],
+        "testing/test_stepwise.py::test_fail_on_errors": [
+            0,
+            1000
+        ],
+        "testing/test_stepwise.py::test_change_testfile": [
+            0,
+            1000
+        ]
+    },
+    "pandas_1c0eb45803f7c901d5cd04480e0b4327912a01c2_rerun": {
+        "pandas/tests/resample/test_resample_api.py::test_pipe": [
+            0,
+            1000
+        ],
+        "pandas/tests/resample/test_resample_api.py::test_getitem": [
+            0,
+            1000
+        ],
+        "pandas/tests/resample/test_resample_api.py::test_select_bad_cols[key0]": [
+            0,
+            1000
+        ],
+        "pandas/tests/resample/test_resample_api.py::test_select_bad_cols[key1]": [
+            0,
+            1000
+        ],
+        "pandas/tests/resample/test_resample_api.py::test_attribute_access": [
+            0,
+            1000
+        ],
+        "pandas/tests/resample/test_resample_api.py::tests_skip_nuisance": [
+            0,
+            1000
+        ]
+    },
+    "PySyft_ce37c64b16cbe064e24d3f5d264683cf2cfcb484_noisy": {
+        "test/federated/test_federated_client.py::test_fit[gaussian_mixture-1-cpu]": [
+            0,
+            24
+        ],
+        "test/federated/test_federated_client.py::test_fit[gaussian_mixture-10-cpu]": [
+            1,
+            24
+        ],
+        "test/federated/test_federated_client.py::test_fit[another_dataset-1-cpu]": [
+            0,
+            24
+        ],
+        "test/federated/test_federated_client.py::test_fit[gaussian_mixture-10-cuda]": [
+            0,
+            24
+        ]
+    },
+    "pytest_e6e300e729dd33956e5448d8be9a0b1540b4e53a_rerun": {
+        "testing/acceptance_test.py::test_warn_on_async_function": [
+            0,
+            1000
+        ],
+        "testing/acceptance_test.py::test_warn_on_async_gen_function": [
+            0,
+            1000
+        ]
+    },
+    "pandas_d150f17384f53c3269189daccf2276d1aded7936_noisy": {
+        "pandas/tests/test_downstream.py::test_missing_required_dependency": [
+            0,
+            1000
+        ]
+    },
+    "pytest_143e3ab84631280ddf7f031e4c6f91ca4ac2b500_rerun": {
+        "testing/logging/test_reporting.py::test_collection_collect_only_live_logging[]": [
+            0,
+            1000
+        ],
+        "testing/logging/test_reporting.py::test_collection_collect_only_live_logging[-q]": [
+            0,
+            1000
+        ],
+        "testing/logging/test_reporting.py::test_collection_collect_only_live_logging[-qq]": [
+            0,
+            1000
+        ]
+    },
+    "pandas_d150f17384f53c3269189daccf2276d1aded7936_rerun": {
+        "pandas/tests/test_downstream.py::test_missing_required_dependency": [
+            0,
+            1000
+        ]
+    },
+    "pandas_cb0d339f48b2cf27d37f6a97be2861899ec05ff2_rerun": {
+        "pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs[gzip-utf-8]": [
+            0,
+            2
+        ],
+        "pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs[gzip-cp1251]": [
+            0,
+            2
+        ],
+        "pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs[bz2-utf-8]": [
+            0,
+            2
+        ],
+        "pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs[bz2-cp1251]": [
+            0,
+            2
+        ],
+        "pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs[zip-utf-8]": [
+            0,
+            2
+        ],
+        "pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs[zip-cp1251]": [
+            1,
+            2
+        ],
+        "pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs[xz-utf-8]": [
+            0,
+            2
+        ],
+        "pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs[xz-cp1251]": [
+            0,
+            2
+        ],
+        "pandas/tests/io/pytables/test_select.py::test_select_as_multiple": [
+            0,
+            2
+        ]
+    },
+    "pandas_fb62fcf91c874e9c24fa83693c4e6e613f35f864_rerun": {
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[True-int_]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[True-uint]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[True-float_]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[True-unicode_]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[True-timedelta64[h]]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[True-datetime64[D]]": [
+            0,
+            0
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[False-int_]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[False-uint]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[False-float_]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[False-unicode_]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[False-timedelta64[h]]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[False-datetime64[D]]": [
+            0,
+            0
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[None-int_]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[None-uint]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[None-float_]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[None-unicode_]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[None-timedelta64[h]]": [
+            0,
+            1000
+        ],
+        "pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool[None-datetime64[D]]": [
+            0,
+            0
+        ]
+    },
+    "pandas_dcf7fce19a662a86a2892396472e052ab9f69708_rerun": {
+        "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_csv-writer_kwargs0-os]": [
+            0,
+            1000
+        ],
+        "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_excel-writer_kwargs1-xlwt]": [
+            0,
+            1000
+        ],
+        "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_feather-writer_kwargs2-feather]": [
+            0,
+            0
+        ],
+        "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_html-writer_kwargs3-os]": [
+            0,
+            1000
+        ],
+        "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_json-writer_kwargs4-os]": [
+            0,
+            1000
+        ],
+        "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_latex-writer_kwargs5-os]": [
+            0,
+            1000
+        ],
+        "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_msgpack-writer_kwargs6-os]": [
+            0,
+            1000
+        ],
+        "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_pickle-writer_kwargs7-os]": [
+            0,
+            1000
+        ],
+        "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_stata-writer_kwargs8-os]": [
+            0,
+            1000
+        ]
+    },
+    "urllib3_dee0fc20a91acb6808958086eabe5d9e3345dea3_noisy": {
+        "test/with_dummyserver/test_chunked_transfer.py::TestChunkedTransfer::test_preserve_chunked_on_retry": [
+            0,
+            1000
+        ]
+    },
+    "urllib3_263da24d4b5c33392772e638b12d02e5b07abf9f_noisy": {
+        "test/with_dummyserver/test_socketlevel.py::TestSocketClosing::test_timeout_errors_cause_retries": [
+            1,
+            193
+        ]
+    },
+    "searx_17b48ff6e858b0c74116068cf6444bd578bbb747_noisy": {
+        "tests/unit/test_standalone_searx.py::StandaloneSearx::test_get_search_query": [
+            1,
+            2
+        ]
+    },
+    "trio_18992fcd629ec8206ccd4c343de8b4db347ab903_rerun": {
+        "trio/_core/tests/test_run.py::test_timekeeping": [
+            0,
+            1000
+        ]
+    },
+    "tornado_7a70e1ca93d1f76c9738ce49026eb7af6f894af2_noisy": {
+        "tornado/test/testing_test.py::AsyncTestCaseTest::test_subsequent_wait_calls": [
+            0,
+            1000
+        ]
+    },
+    "trio_dd4dbe0429d2efbe880e4fa609f47413f96cef64_noisy": {
+        "trio/tests/test_threads.py::test_run_in_worker_thread_abandoned": [
+            0,
+            1000
+        ]
+    },
+    "tornado_729f1d904225c5d1b15571f125207c319b22616a_noisy": {
+        "tornado/test/simple_httpclient_test.py::ResolveTimeoutTestCase::test_resolve_timeout": [
+            0,
+            1000
+        ]
+    },
+    "trio_af276c6cd301311b224be6e221031ffb1da50e55_noisy": {
+        "trio/tests/test_subprocess.py::test_signals": [
+            1,
+            67
+        ]
+    },
+    "trio_9578b92ab830b0dcc111bf2d4c0d20b59dd7ae27_rerun": {
+        "trio/tests/test_subprocess.py::test_basic": [
+            0,
+            1000
+        ],
+        "trio/tests/test_subprocess.py::test_auto_update_returncode": [
+            0,
+            1000
+        ]
+    },
+    "urllib3_fbd67aa19c10590383c7565c4555d3882db94329_noisy": {
+        "test/with_dummyserver/test_connectionpool.py::TestConnectionPoolTimeouts::test_timeout": [
+            1,
+            118
+        ]
+    },
+    "trio_af276c6cd301311b224be6e221031ffb1da50e55_rerun": {
+        "trio/tests/test_subprocess.py::test_signals": [
+            1,
+            765
+        ]
+    },
+    "urllib3_fbd67aa19c10590383c7565c4555d3882db94329_rerun": {
+        "test/with_dummyserver/test_connectionpool.py::TestConnectionPoolTimeouts::test_timeout": [
+            1,
+            411
+        ]
+    },
+    "searx_17b48ff6e858b0c74116068cf6444bd578bbb747_rerun": {
+        "tests/unit/test_standalone_searx.py::StandaloneSearx::test_get_search_query": [
+            1000,
+            1000
+        ]
+    },
+    "scipy_28d4244b6f5c1543755e586f27f9261d0f84153b_noisy": {
+        "scipy/sparse/linalg/isolve/tests/test_lgmres.py::TestLGMRES::test_arnoldi": [
+            1,
+            6
+        ]
+    },
+    "tornado_c19e8ff820d1952da33e6b4a80c4ef2d1c008bed_noisy": {
+        "tornado/test/process_test.py::SubprocessTest::test_sigchild_signal": [
+            0,
+            1000
+        ]
+    },
+    "trio_9578b92ab830b0dcc111bf2d4c0d20b59dd7ae27_noisy": {
+        "trio/tests/test_subprocess.py::test_basic": [
+            1,
+            714
+        ],
+        "trio/tests/test_subprocess.py::test_auto_update_returncode": [
+            0,
+            714
+        ]
+    },
+    "scipy_9a8a0514c00de86abacf5d0f97fa181bbf65a439_rerun": {
+        "scipy/stats/tests/test_morestats.py::TestShapiro::test_basic": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestProbplot::test_basic": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_mstats_basic.py::test_siegelslopes": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_stats.py::TestStudentTest::test_onesample": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_stats.py::TestKSOneSample::test_known_examples": [
+            0,
+            1000
+        ]
+    },
+    "scipy_9a8a0514c00de86abacf5d0f97fa181bbf65a439_noisy": {
+        "scipy/stats/tests/test_morestats.py::TestShapiro::test_basic": [
+            1,
+            161
+        ],
+        "scipy/stats/tests/test_morestats.py::TestProbplot::test_basic": [
+            0,
+            161
+        ],
+        "scipy/stats/tests/test_mstats_basic.py::test_siegelslopes": [
+            1,
+            161
+        ],
+        "scipy/stats/tests/test_stats.py::TestStudentTest::test_onesample": [
+            0,
+            161
+        ],
+        "scipy/stats/tests/test_stats.py::TestKSOneSample::test_known_examples": [
+            0,
+            161
+        ]
+    },
+    "scipy_411fbbda0f942fcce3e4b314efb11c4553baaa7c_noisy": {
+        "scipy/sparse/linalg/isolve/tests/test_lsmr.py::TestLSMR::testInitialization": [
+            0,
+            1000
+        ]
+    },
+    "urllib3_81e83292214831f4dc3aebd9fc0d516ea48a22f5_rerun": {
+        "test/with_dummyserver/test_socketlevel.py::TestSocketClosing::test_read_timeout_dont_retry_method_not_in_whitelist": [
+            0,
+            1000
+        ]
+    },
+    "scipy_28d4244b6f5c1543755e586f27f9261d0f84153b_rerun": {
+        "scipy/sparse/linalg/isolve/tests/test_lgmres.py::TestLGMRES::test_arnoldi": [
+            0,
+            1000
+        ]
+    },
+    "urllib3_81e83292214831f4dc3aebd9fc0d516ea48a22f5_noisy": {
+        "test/with_dummyserver/test_socketlevel.py::TestSocketClosing::test_read_timeout_dont_retry_method_not_in_whitelist": [
+            0,
+            1000
+        ]
+    },
+    "trio_dd4dbe0429d2efbe880e4fa609f47413f96cef64_rerun": {
+        "trio/tests/test_threads.py::test_run_in_worker_thread_abandoned": [
+            0,
+            1000
+        ]
+    },
+    "tornado_c19e8ff820d1952da33e6b4a80c4ef2d1c008bed_rerun": {
+        "tornado/test/process_test.py::SubprocessTest::test_sigchild_signal": [
+            1,
+            562
+        ]
+    },
+    "urllib3_dee0fc20a91acb6808958086eabe5d9e3345dea3_rerun": {
+        "test/with_dummyserver/test_chunked_transfer.py::TestChunkedTransfer::test_preserve_chunked_on_retry": [
+            0,
+            1000
+        ]
+    },
+    "trio_18992fcd629ec8206ccd4c343de8b4db347ab903_noisy": {
+        "trio/_core/tests/test_run.py::test_timekeeping": [
+            0,
+            1000
+        ]
+    },
+    "tornado_729f1d904225c5d1b15571f125207c319b22616a_rerun": {
+        "tornado/test/simple_httpclient_test.py::ResolveTimeoutTestCase::test_resolve_timeout": [
+            0,
+            1000
+        ]
+    },
+    "scipy_411fbbda0f942fcce3e4b314efb11c4553baaa7c_rerun": {
+        "scipy/sparse/linalg/isolve/tests/test_lsmr.py::TestLSMR::testInitialization": [
+            0,
+            1000
+        ]
+    },
+    "tornado_7a70e1ca93d1f76c9738ce49026eb7af6f894af2_rerun": {
+        "tornado/test/testing_test.py::AsyncTestCaseTest::test_subsequent_wait_calls": [
+            0,
+            1000
+        ]
+    },
+    "urllib3_263da24d4b5c33392772e638b12d02e5b07abf9f_rerun": {
+        "test/with_dummyserver/test_socketlevel.py::TestSocketClosing::test_timeout_errors_cause_retries": [
+            0,
+            1000
+        ]
+    },
+    "scipy_7ed57090b1852e910bbe897d14f00b01f49a9750_noisy": {
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[alpha-arg0]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[anglit-arg1]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[arcsine-arg2]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[argus-arg3]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[beta-arg4]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[betaprime-arg5]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[bradford-arg6]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[burr-arg7]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[burr12-arg8]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[cauchy-arg9]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[chi-arg10]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[chi2-arg11]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[cosine-arg12]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[crystalball-arg13]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[dgamma-arg14]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[dweibull-arg15]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[erlang-arg16]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[expon-arg17]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[exponnorm-arg18]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[exponpow-arg19]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[exponweib-arg20]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[f-arg21]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[fatiguelife-arg22]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[fisk-arg23]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[foldcauchy-arg24]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[foldnorm-arg25]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gamma-arg26]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gausshyper-arg27]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[genexpon-arg28]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[genextreme-arg29]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gengamma-arg30]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gengamma-arg31]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[genhalflogistic-arg32]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[geninvgauss-arg33]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[genlogistic-arg34]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gennorm-arg35]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[halfgennorm-arg36]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[genpareto-arg37]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gilbrat-arg38]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gompertz-arg39]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gumbel_l-arg40]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gumbel_r-arg41]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[halfcauchy-arg42]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[halflogistic-arg43]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[halfnorm-arg44]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[hypsecant-arg45]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[invgamma-arg46]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[invgauss-arg47]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[invweibull-arg48]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[johnsonsb-arg49]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[johnsonsu-arg50]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[kappa4-arg51]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[kappa4-arg52]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[kappa4-arg53]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[kappa4-arg54]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[kappa3-arg55]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[ksone-arg56]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[kstwo-arg57]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[kstwobign-arg58]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[laplace-arg59]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[levy-arg60]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[levy_l-arg61]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[loggamma-arg62]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[logistic-arg63]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[loglaplace-arg64]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[lognorm-arg65]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[loguniform-arg66]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[lomax-arg67]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[maxwell-arg68]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[mielke-arg69]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[moyal-arg70]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[nakagami-arg71]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[ncf-arg72]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[nct-arg73]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[ncx2-arg74]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[norm-arg75]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[norminvgauss-arg76]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[pareto-arg77]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[pearson3-arg78]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[powerlaw-arg79]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[powerlognorm-arg80]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[powernorm-arg81]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[rayleigh-arg82]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[rdist-arg83]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[recipinvgauss-arg84]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[reciprocal-arg85]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[rice-arg86]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[semicircular-arg87]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[skewnorm-arg88]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[t-arg89]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[trapz-arg90]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[triang-arg91]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[truncexpon-arg92]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[truncnorm-arg93]": [
+            0,
+            0
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[truncnorm-arg94]": [
+            0,
+            0
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[tukeylambda-arg95]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[uniform-arg96]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[vonmises-arg97]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[vonmises_line-arg98]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[wald-arg99]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[weibull_max-arg100]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[weibull_min-arg101]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[wrapcauchy-arg102]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[distname103-arg103]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[alpha-arg0]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[anglit-arg1]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[arcsine-arg2]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[argus-arg3]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[beta-arg4]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[betaprime-arg5]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[bradford-arg6]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[burr-arg7]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[burr12-arg8]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[cauchy-arg9]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[chi-arg10]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[chi2-arg11]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[cosine-arg12]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[crystalball-arg13]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[dgamma-arg14]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[dweibull-arg15]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[erlang-arg16]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[expon-arg17]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[exponnorm-arg18]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[exponpow-arg19]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[exponweib-arg20]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[f-arg21]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[fatiguelife-arg22]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[fisk-arg23]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[foldcauchy-arg24]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[foldnorm-arg25]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gamma-arg26]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gausshyper-arg27]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[genexpon-arg28]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[genextreme-arg29]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gengamma-arg30]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gengamma-arg31]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[genhalflogistic-arg32]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[geninvgauss-arg33]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[genlogistic-arg34]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gennorm-arg35]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[halfgennorm-arg36]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[genpareto-arg37]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gilbrat-arg38]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gompertz-arg39]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gumbel_l-arg40]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gumbel_r-arg41]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[halfcauchy-arg42]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[halflogistic-arg43]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[halfnorm-arg44]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[hypsecant-arg45]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[invgamma-arg46]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[invgauss-arg47]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[invweibull-arg48]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[johnsonsb-arg49]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[johnsonsu-arg50]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[kappa4-arg51]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[kappa4-arg52]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[kappa4-arg53]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[kappa4-arg54]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[kappa3-arg55]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[ksone-arg56]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[kstwo-arg57]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[kstwobign-arg58]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[laplace-arg59]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[levy-arg60]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[levy_l-arg61]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[loggamma-arg62]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[logistic-arg63]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[loglaplace-arg64]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[lognorm-arg65]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[loguniform-arg66]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[lomax-arg67]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[maxwell-arg68]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[mielke-arg69]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[moyal-arg70]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[nakagami-arg71]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[ncf-arg72]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[nct-arg73]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[ncx2-arg74]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[norm-arg75]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[norminvgauss-arg76]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[pareto-arg77]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[pearson3-arg78]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[powerlaw-arg79]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[powerlognorm-arg80]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[powernorm-arg81]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[rayleigh-arg82]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[rdist-arg83]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[recipinvgauss-arg84]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[reciprocal-arg85]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[rice-arg86]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[semicircular-arg87]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[skewnorm-arg88]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[t-arg89]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[trapz-arg90]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[triang-arg91]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[truncexpon-arg92]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[truncnorm-arg93]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[truncnorm-arg94]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[tukeylambda-arg95]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[uniform-arg96]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[vonmises-arg97]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[vonmises_line-arg98]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[wald-arg99]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[weibull_max-arg100]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[weibull_min-arg101]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[wrapcauchy-arg102]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[distname103-arg103]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestProbplot::test_sparams_keyword": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestProbplot::test_dist_keyword": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestProbplot::test_plot_kwarg": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestPpccPlot::test_dist": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestBoxcox_llf::test_basic": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestBoxcox_llf::test_array_like": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestBoxcox_llf::test_2d_input": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestBoxcox::test_fixed_lmbda": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestBoxcox::test_lmbda_None": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestBoxcox::test_alpha": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestYeojohnson_llf::test_array_like": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestYeojohnson_llf::test_2d_input": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestYeojohnson::test_fixed_lmbda": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestYeojohnson::test_lmbda_None[0]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestYeojohnson::test_lmbda_None[0.1]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestYeojohnson::test_lmbda_None[0.5]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestYeojohnson::test_lmbda_None[2]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestYeojohnson::test_array_like": [
+            0,
+            1000
+        ]
+    },
+    "scipy_7ed57090b1852e910bbe897d14f00b01f49a9750_rerun": {
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[alpha-arg0]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[anglit-arg1]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[arcsine-arg2]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[argus-arg3]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[beta-arg4]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[betaprime-arg5]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[bradford-arg6]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[burr-arg7]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[burr12-arg8]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[cauchy-arg9]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[chi-arg10]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[chi2-arg11]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[cosine-arg12]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[crystalball-arg13]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[dgamma-arg14]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[dweibull-arg15]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[erlang-arg16]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[expon-arg17]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[exponnorm-arg18]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[exponpow-arg19]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[exponweib-arg20]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[f-arg21]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[fatiguelife-arg22]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[fisk-arg23]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[foldcauchy-arg24]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[foldnorm-arg25]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gamma-arg26]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gausshyper-arg27]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[genexpon-arg28]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[genextreme-arg29]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gengamma-arg30]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gengamma-arg31]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[genhalflogistic-arg32]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[geninvgauss-arg33]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[genlogistic-arg34]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gennorm-arg35]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[halfgennorm-arg36]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[genpareto-arg37]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gilbrat-arg38]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gompertz-arg39]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gumbel_l-arg40]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gumbel_r-arg41]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[halfcauchy-arg42]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[halflogistic-arg43]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[halfnorm-arg44]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[hypsecant-arg45]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[invgamma-arg46]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[invgauss-arg47]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[invweibull-arg48]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[johnsonsb-arg49]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[johnsonsu-arg50]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[kappa4-arg51]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[kappa4-arg52]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[kappa4-arg53]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[kappa4-arg54]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[kappa3-arg55]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[ksone-arg56]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[kstwo-arg57]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[kstwobign-arg58]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[laplace-arg59]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[levy-arg60]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[levy_l-arg61]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[loggamma-arg62]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[logistic-arg63]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[loglaplace-arg64]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[lognorm-arg65]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[loguniform-arg66]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[lomax-arg67]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[maxwell-arg68]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[mielke-arg69]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[moyal-arg70]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[nakagami-arg71]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[ncf-arg72]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[nct-arg73]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[ncx2-arg74]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[norm-arg75]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[norminvgauss-arg76]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[pareto-arg77]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[pearson3-arg78]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[powerlaw-arg79]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[powerlognorm-arg80]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[powernorm-arg81]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[rayleigh-arg82]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[rdist-arg83]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[recipinvgauss-arg84]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[reciprocal-arg85]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[rice-arg86]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[semicircular-arg87]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[skewnorm-arg88]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[t-arg89]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[trapz-arg90]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[triang-arg91]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[truncexpon-arg92]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[truncnorm-arg93]": [
+            0,
+            0
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[truncnorm-arg94]": [
+            0,
+            0
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[tukeylambda-arg95]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[uniform-arg96]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[vonmises-arg97]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[vonmises_line-arg98]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[wald-arg99]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[weibull_max-arg100]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[weibull_min-arg101]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[wrapcauchy-arg102]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[distname103-arg103]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[alpha-arg0]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[anglit-arg1]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[arcsine-arg2]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[argus-arg3]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[beta-arg4]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[betaprime-arg5]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[bradford-arg6]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[burr-arg7]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[burr12-arg8]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[cauchy-arg9]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[chi-arg10]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[chi2-arg11]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[cosine-arg12]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[crystalball-arg13]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[dgamma-arg14]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[dweibull-arg15]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[erlang-arg16]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[expon-arg17]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[exponnorm-arg18]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[exponpow-arg19]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[exponweib-arg20]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[f-arg21]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[fatiguelife-arg22]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[fisk-arg23]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[foldcauchy-arg24]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[foldnorm-arg25]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gamma-arg26]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gausshyper-arg27]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[genexpon-arg28]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[genextreme-arg29]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gengamma-arg30]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gengamma-arg31]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[genhalflogistic-arg32]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[geninvgauss-arg33]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[genlogistic-arg34]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gennorm-arg35]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[halfgennorm-arg36]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[genpareto-arg37]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gilbrat-arg38]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gompertz-arg39]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gumbel_l-arg40]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gumbel_r-arg41]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[halfcauchy-arg42]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[halflogistic-arg43]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[halfnorm-arg44]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[hypsecant-arg45]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[invgamma-arg46]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[invgauss-arg47]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[invweibull-arg48]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[johnsonsb-arg49]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[johnsonsu-arg50]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[kappa4-arg51]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[kappa4-arg52]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[kappa4-arg53]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[kappa4-arg54]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[kappa3-arg55]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[ksone-arg56]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[kstwo-arg57]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[kstwobign-arg58]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[laplace-arg59]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[levy-arg60]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[levy_l-arg61]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[loggamma-arg62]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[logistic-arg63]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[loglaplace-arg64]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[lognorm-arg65]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[loguniform-arg66]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[lomax-arg67]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[maxwell-arg68]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[mielke-arg69]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[moyal-arg70]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[nakagami-arg71]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[ncf-arg72]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[nct-arg73]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[ncx2-arg74]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[norm-arg75]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[norminvgauss-arg76]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[pareto-arg77]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[pearson3-arg78]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[powerlaw-arg79]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[powerlognorm-arg80]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[powernorm-arg81]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[rayleigh-arg82]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[rdist-arg83]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[recipinvgauss-arg84]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[reciprocal-arg85]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[rice-arg86]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[semicircular-arg87]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[skewnorm-arg88]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[t-arg89]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[trapz-arg90]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[triang-arg91]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[truncexpon-arg92]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[truncnorm-arg93]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[truncnorm-arg94]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[tukeylambda-arg95]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[uniform-arg96]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[vonmises-arg97]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[vonmises_line-arg98]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[wald-arg99]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[weibull_max-arg100]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[weibull_min-arg101]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[wrapcauchy-arg102]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[distname103-arg103]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestProbplot::test_sparams_keyword": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestProbplot::test_dist_keyword": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestProbplot::test_plot_kwarg": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestPpccPlot::test_dist": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestBoxcox_llf::test_basic": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestBoxcox_llf::test_array_like": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestBoxcox_llf::test_2d_input": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestBoxcox::test_fixed_lmbda": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestBoxcox::test_lmbda_None": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestBoxcox::test_alpha": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestYeojohnson_llf::test_array_like": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestYeojohnson_llf::test_2d_input": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestYeojohnson::test_fixed_lmbda": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestYeojohnson::test_lmbda_None[0]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestYeojohnson::test_lmbda_None[0.1]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestYeojohnson::test_lmbda_None[0.5]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestYeojohnson::test_lmbda_None[2]": [
+            0,
+            1000
+        ],
+        "scipy/stats/tests/test_morestats.py::TestYeojohnson::test_array_like": [
+            0,
+            1000
+        ]
+    },
+    "psutil_93e1c468ab4ac7922472114b3aeeacda2c8676a1_noisy": {
+        "psutil/tests/test_linux.py::TestSystemVirtualMemory::test_total": [
+            0,
+            1000
+        ]
+    },
+    "salt_e2218815b3f902e7da08c1078e84e57945542239_noisy": {
+        "tests/pytests/unit/modules/test_pkg_resource.py::test_format_pkg_list_with_attr": [
+            0,
+            1000
+        ]
+    },
+    "psutil_93e1c468ab4ac7922472114b3aeeacda2c8676a1_rerun": {
+        "psutil/tests/test_linux.py::TestSystemVirtualMemory::test_total": [
+            0,
+            1000
+        ]
+    },
+    "salt_e2218815b3f902e7da08c1078e84e57945542239_rerun": {
+        "tests/pytests/unit/modules/test_pkg_resource.py::test_format_pkg_list_with_attr": [
+            0,
+            1000
+        ]
+    },
+    "synapse_3f49f74610197d32fe73678cabc10f08732e66b8_noisy": {
+        "tests/rest/client/v1/test_rooms.py::ShadowBannedTestCase::test_create_room": [
+            1,
+            2
+        ],
+        "tests/rest/client/v1/test_rooms.py::ShadowBannedTestCase::test_invite": [
+            0,
+            2
+        ],
+        "tests/rest/client/v1/test_rooms.py::ShadowBannedTestCase::test_invite_3pid": [
+            1,
+            2
+        ]
+    },
+    "dask_ba78cda8167d78bed3f739b6e5d1504c2e99b46c_rerun": {
+        "dask/tests/test_threaded.py::test_interrupt": [
+            0,
+            1000
+        ]
+    },
+    "synapse_139bc86f3d4780a8850918e880200d5bb9cbcd8d_rerun": {
+        "tests/test_phone_home.py::PhoneHomeStatsTestCase::test_performance_100": [
+            0,
+            1000
+        ]
+    },
+    "dask_ba78cda8167d78bed3f739b6e5d1504c2e99b46c_noisy": {
+        "dask/tests/test_threaded.py::test_interrupt": [
+            0,
+            1000
+        ]
+    },
+    "synapse_3f49f74610197d32fe73678cabc10f08732e66b8_rerun": {
+        "tests/rest/client/v1/test_rooms.py::ShadowBannedTestCase::test_create_room": [
+            1,
+            7
+        ],
+        "tests/rest/client/v1/test_rooms.py::ShadowBannedTestCase::test_invite": [
+            0,
+            7
+        ],
+        "tests/rest/client/v1/test_rooms.py::ShadowBannedTestCase::test_invite_3pid": [
+            0,
+            7
+        ]
+    },
+    "synapse_139bc86f3d4780a8850918e880200d5bb9cbcd8d_noisy": {
+        "tests/test_phone_home.py::PhoneHomeStatsTestCase::test_performance_100": [
+            0,
+            1000
+        ]
+    },
+    "patroni_8446077fb3047f420c8d5769d8faca3073c2bbc0_noisy": {
+        "tests/test_raft.py::TestKVStoreTTL::test_retry": [
+            0,
+            1000
+        ]
+    },
+    "patroni_8446077fb3047f420c8d5769d8faca3073c2bbc0_rerun": {
+        "tests/test_raft.py::TestKVStoreTTL::test_retry": [
+            0,
+            1000
+        ]
+    },
+    "flask-sqlalchemy_aa96bb4e89c19b7a581a4e27e2c97a66b856cbd9_noisy": {
+        "tests/test_sessions.py::test_session_scoping_changing": [
+            0,
+            1000
+        ]
+    },
+    "flask-sqlalchemy_aa96bb4e89c19b7a581a4e27e2c97a66b856cbd9_rerun": {
+        "tests/test_sessions.py::test_session_scoping_changing": [
+            0,
+            1000
+        ]
+    },
+    "client_799c2b6bc5aaac5ed05e7b21c38f6726bf5a9058_noisy": {
+        "tests/test_logging.py::test_logging": [
+            1,
+            2
+        ]
+    },
+    "client_799c2b6bc5aaac5ed05e7b21c38f6726bf5a9058_rerun": {
+        "tests/test_logging.py::test_logging": [
+            1000,
+            1000
+        ]
+    },
+    "client_de88b0b3e8a2c62e8d55a7918bac6b9fc8462905_rerun": {
+        "tests/wandb_tensorflow_test.py::test_tensorboard_log_with_wandb_log": [
+            1000,
+            1000
+        ]
+    },
+    "client_de88b0b3e8a2c62e8d55a7918bac6b9fc8462905_noisy": {
+        "tests/wandb_tensorflow_test.py::test_tensorboard_log_with_wandb_log": [
+            1000,
+            1000
+        ]
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "tests/unit/test_standalone_searx.py::StandaloneSearx::test_get_search_query": [
+        1000,
+        1000
+    ]
+}

@@ -1,0 +1,664 @@
+{
+    "apache/airflow": {
+        "d06d3165ff7df8ceeb52f8f18154f5f27d83355b": [
+            "9ab99102ac984257469b0145687f84720298a8cf",
+            ["python3.6", "python3.7"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest -k 'not TestACIOperator and not TestCliWebServer and not TestDaskExecutor and not sensor'"],
+            0,
+            1
+        ],
+        "e936159672539b13ddecfe66aee1094fe8923291": [
+            "e7b8eb7f3189fa587c49a2856dfd570f7625ca78",
+            ["python3.6", "python3.7"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest -k 'not TestACIOperator and not TestCliWebServer and not TestDaskExecutor and not sensor'"],
+            9,
+            2
+        ],
+        "8936180afb9395cbf4af2ae885136caee8b2e3b7": [
+            "6584e0d887a6fbc98ab21ba062a03e30cac2923f",
+            ["python3.6", "python3.7"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest -k 'not TestACIOperator and not TestCliWebServer and not TestDaskExecutor and not sensor'"],
+            1,
+            7
+        ],
+        "9346bf0513d9970e43470d8d74cf0b4cad37f68e": [
+            "8325dd5507c95eca15a030b2aa5f3e6391734eb9",
+            ["python3.6", "python3.7"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest -k 'not TestACIOperator and not TestCliWebServer and not TestDaskExecutor and not sensor'"],
+            9,
+            2
+        ]
+    },
+    "HIPS/autograd": {
+        "c32a81d0ae349df15bc44714e9c349e5fe4743d6": [
+            "7c09501d847621e23c3caa4ea2869db29c5d0711",
+            ["python3.5", "python3.6"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            6,
+            7
+        ]
+    },
+    "mahmoud/boltons": {
+        "16bb8be5e0f0e8dc36596228986fa64e90666f0f": [
+            "8541a5b37e33ff15968efba5db88c54c142c6d4a",
+            ["python3.7"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            0,
+            7
+        ]
+    },
+    "celery/celery": {
+        "114dbe25829c7a68f1168b4f345b19a8b40471a5": [
+            "5c34f472baec3445c478118eb921bcc0bec405c9",
+            ["python3.5", "python3.6", "python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            1,
+            8
+        ]
+    },
+    "django/channels": {
+        "6362831502b0bd982a3d916ad60274988cbfb7e5": [
+            "0a3202d2c72bb019c7166850fb6c520368abb0c2",
+            ["python3.6", "python3.7", "python3.8", "python3.9"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            5,
+            6
+        ]
+    },
+    "quantumlib/Cirq": {
+        "875132cf97190c016023c20958f69a675376a160": [ 
+            "c8beade4d36c0b97321427e87cad2e1997017615",
+            ["python3.6", "python3.7"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            6,
+            5
+        ],
+        "0d1eacc456ada78de0815446905e9c48254cee6b": [
+            "7a9c598d40e5cc637e3fe647066c591c3236ff33",
+            ["python3.6", "python3.7"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            6,
+            7
+        ],
+        "a3ab283cecf50c9e74e6f5a586e07f63e55cac8a": [
+            "f38dd30a7e6e075e5887f3edc1fd6cb7907b0d8e",
+            ["python3.6", "python3.7"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            6,
+            7
+        ],
+        "e5b8ab56cf42baba067ee9355d5605a8c07268c0": [
+            "b8e15580dc34e10f010768b6252637f0779579de",
+            ["python3.6"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            10,
+            8
+        ],
+        "a445b4246f1635d0e08bba7121b780a29894addd": [
+            "99080a2403e6469cdcd43840c0d2412fa9f8e05a",
+            ["python3.6"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            10,
+            2
+        ]
+    },
+    "wandb/client": {
+        "75a43fb2ce6edfefe6288da18acdc056db1578c6": [
+            "799c2b6bc5aaac5ed05e7b21c38f6726bf5a9058",
+            ["python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            10,
+            8
+        ],
+        "92789b95e0840af4c42c44785583d406e15d12c4": [
+            "de88b0b3e8a2c62e8d55a7918bac6b9fc8462905",
+            ["python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            10,
+            0
+        ]
+    },
+    "home-assistant/core": {
+        "e477e94ddd5dcf0ab4e766f8249f33451ae544d1": [
+            "354058f020e2435cdb5e27568c007e0140007d0e",
+            ["python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            0,
+            0
+        ],
+        "4899d7628ad6a88de704d72bae44f9b71b70d88a": [
+            "6ccdf62e6b79c946b19037b44388fc40d8796296",
+            ["python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            4,
+            0
+        ],
+        "e2921475e20635a1f12e6c2e3efba4eb249aa97e": [
+            "e97792adf06b3520de71ef6fc851458067365e4b",
+            ["python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            4,
+            0
+        ],
+        "2ff3c74fabdf2c7f2dacea2819a5651fc627b42a": [
+            "056e71266763446b7043d1bb9fdd8821d10de8c5",
+            ["python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            10,
+            8
+        ],
+        "44d7169642309e600b88ed64d6a7de3dad31e10a": [
+            "00387bf87031857e8ffc249c11e812b0e6af14b2",
+            ["python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            4,
+            0
+        ],
+        "2b42d77f5899b9a87b7713c4582b71bce1fd40dd": [
+            "a6e9a312a309c64eb96118cacfb32f8ca8d79f2d",
+            ["python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            0,
+            1
+        ]
+    },
+    "dask/dask": {
+        "6df85f3b25dac2ab9d377e973ebb3b5194257973": [
+            "ba78cda8167d78bed3f739b6e5d1504c2e99b46c",
+            ["python3.7", "python3.8", "python3.9"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest --mock-flaky"],
+            1,
+            1
+        ]
+    },
+    "spesmilo/electrum": {
+        "cb55a2d6541544564c5b11ae6e0ffeb18ca253ce": [
+            "5c91212fabe1e4c674acbf0ff84fb2ef4674e86d",
+            ["python3.6", "python3.7"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            0,
+            1
+        ]
+    },
+    "robinhood/faust": {
+        "178ec50aa7aaee8a9351b9d83ef2cc90d7dd7b7d": [
+            "a33be225e6ff63da17d288a4593d05bd57d062b6",
+            ["python3.6", "python3.7"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest t --continue-on-collection-errors"],
+            2,
+            7
+        ],        
+        "d3d17fa7ecabb682ea5675e1a6ba7157140254f1": [
+            "723587f6655400123852734a1cf01ad953ab8afa",
+            ["python3.6", "python3.7"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest t --continue-on-collection-errors"],
+            10,
+            8
+        ],
+        "8c24eabd834a11e45502d6db8521a6f9ddc10904": [
+            "d2d387479a6d9d708aa67e89d535766446ec6b20",
+            ["python3.6", "python3.7"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest t"],
+            0,
+            1
+        ]
+    },
+    "pallets/flask": {
+        "6d65595a3c0a02d098c36f7d337e053e07975316": [
+            "6f7762538bffe3ce9d03508ecab230bfff3e3dcd",
+            ["python3.7", "python3.8", "python3.9"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            1,
+            1
+        ]
+    },
+    "pallets/flask-sqlalchemy": {
+        "edc32c1fa14a0cb1ce7c7c2e0a7ec444179b127e": [
+            "aa96bb4e89c19b7a581a4e27e2c97a66b856cbd9",
+            ["python3.6", "python3.7", "python3.8", "python3.9"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            10,
+            8
+        ]
+    },
+    "geopy/geopy": {
+        "a3a3eb797f83a0a86b50e7b9685536e28951d489": [
+            "8b25679ed2d5bafbf1d17d893826160e09e3fb67",
+            ["python3.5", "python3.6", "python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            10,
+            7
+        ]
+    },
+    "graphql-python/graphene": {
+        "ec9f76cfae8ea0a5d8fa19003d2dd49fd2fb5f0e": [
+            "eb7966eca7f9f90da1ac60c97aafa542ae3d0b38",
+            ["python3.5", "python3.6", "python3.7"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest --continue-on-collection-errors"],
+            8,
+            0
+        ]
+    },
+    "HypothesisWorks/hypothesis": {
+        "6b71cf4dff3ccf707a357e5bbd4317465a99fda3": [
+            "f45ff921dc6deca0f36e4097d3a72e9ec4ac97ef",
+            ["python3.5", "python3.6", "python3.7", "python3.8"],
+            ["pip install -I --no-deps -e hypothesis-python"],
+            ["python -m pytest --continue-on-collection-errors"],
+            10,
+            7
+        ],
+        "9c762d9a6be814d277610c0d908dbf9268ddd147": [
+            "8cfd0eb88e773c410eb6c7bee2bfbe6c757a30d5",
+            ["python3.5", "python3.6", "python3.7", "python3.8"],
+            ["pip install -I --no-deps -e hypothesis-python"],
+            ["python -m pytest --continue-on-collection-errors"],
+            6,
+            5
+        ],
+        "d123d92940a6b28732da80d0c7e3a0b4465bcb01": [
+            "a228bc8361ae642d75055e2c02f322929a4134e6",
+            ["python3.5", "python3.6", "python3.7"],
+            ["pip install -I --no-deps -e hypothesis-python"],
+            ["python -m pytest --continue-on-collection-errors"],
+            6,
+            5
+        ],
+        "f1fcb251cba51400c81d943c4744ab2338d4e0d0": [
+            "9b225344f3bc182636c84a7a7674d16aa6d545a0",
+            ["python3.5", "python3.6", "python3.7"],
+            ["pip install -I --no-deps -e hypothesis-python"],
+            ["python -m pytest --continue-on-collection-errors"],
+            10,
+            7
+        ],
+        "cb4b310184773521d3de1f0af55c08409e75c97d": [
+            "25e3a4bc80ec37fd64aec6d6d6cb59c94555165b",
+            ["python3.5", "python3.6"],
+            ["pip install -I --no-deps -e hypothesis-python"],
+            ["python -m pytest --continue-on-collection-errors"],
+            10,
+            7
+        ],
+        "65be4d966d445039fdc2ea8d97bfa15153a068d1": [
+            "6d7cdd31e6cb61d0a792dc0187897b3c9cb91cb6",
+            ["python3.5", "python3.6"],
+            ["pip install -I --no-deps -e hypothesis-python"],
+            ["python -m pytest --continue-on-collection-errors"],
+            6,
+            5
+        ]
+    },
+    "dpkp/kafka-python": {
+        "d032844ad945b6e99845c40cfe08e026a56d332a": [
+            "d620703305667f6292075357b36cb98681dc627b",
+            ["python3.5", "python3.6", "python3.7"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            8,
+            0
+        ]
+    },
+    "matplotlib/matplotlib": {
+        "2e200587771f35abeabc6fa902b1fd1467ccd077": [
+            "476445234b7a7046893b56a132d2220a295827e4",
+            ["python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            1,
+            4
+        ],
+        "95aa9683071cb66f2b3cb1f542710a1ebf6af412": [
+            "f3885702839be2e1c257b03bff9cb770251a0187",
+            ["python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            1,
+            4
+        ],
+        "c7d4816684e3312e6c494ff35035f06e37ec24be": [
+            "e9a2918d434bb82b60c51efbc2d01e1f82b3f060",
+            ["python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            8,
+            6
+        ]
+    },
+    "mitmproxy/mitmproxy": {
+        "06734f498df4cedc2f6ff1d5abd42072444367a7": [
+            "5af57cfa996fcd27a395064a5e5507f9357d0d5b",
+            ["python3.6", "python3.7"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            7,
+            4
+        ],
+        "7d9b626d2ed304de0f5aa6083c782dcd00ed51dc": [
+            "af1a4ffdcd4c98afefd4228bbc2bc276cfd8436f",
+            ["python3.6"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            4,
+            4
+        ]
+    },
+    "pandas-dev/pandas": {
+        "aa429d4a9a7ac2fe531089a2ef0678bbf2b4c33c": [
+            "cb0d339f48b2cf27d37f6a97be2861899ec05ff2",
+            ["python3.7"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest pandas --continue-on-collection-errors"],
+            8,
+            7
+        ],
+        "a4b0132d8a01971f7ddfce5497950ad10ef8ff5d": [
+            "fb62fcf91c874e9c24fa83693c4e6e613f35f864",
+            ["python3.7"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest pandas --continue-on-collection-errors"],
+            8,
+            8
+        ],
+        "f5131913b32b756bc72d6dd33ecd4c52369edd3b": [
+            "1c0eb45803f7c901d5cd04480e0b4327912a01c2",
+            ["python3.7"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest pandas --continue-on-collection-errors"],
+            5,
+            3
+        ],
+        "cfd65e98e694b2ad40e97d06ffdd9096a3dea909": [
+            "d150f17384f53c3269189daccf2276d1aded7936",
+            ["python3.7"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest pandas --continue-on-collection-errors"],
+            10,
+            8
+        ],
+        "850fbb503203f2fb9a8a1448522e02f0437b2136": [
+            "ac318d26cdbe3d10030f4863b84a06e938da9bba",
+            ["python3.7"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest pandas --continue-on-collection-errors"],
+            8,
+            8
+        ],
+        "10173821965fa65654b172891b2102a8426132ca": [
+            "dcf7fce19a662a86a2892396472e052ab9f69708",
+            ["python3.7"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest pandas --continue-on-collection-errors"],
+            8,
+            0
+        ]
+    },
+    "zalando/patroni": {
+        "4a8c4cfc53db989b8db941d1b8fcd02c5e33d142": [
+            "8446077fb3047f420c8d5769d8faca3073c2bbc0",
+            ["python3.7", "python3.8", "python3.9"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            8,
+            0
+        ]
+    },
+    "OpenMined/PySyft": {
+        "bb856e51e0234cc06281481b2e545850d43f1899": [
+            "08a49e018b3c506c086d7a36542b200b67797728",
+            ["python3.6"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            2,
+            7
+        ],
+        "036179ba4ccc5d54c53c5a46324ea7d59b57b5f0": [
+            "ce37c64b16cbe064e24d3f5d264683cf2cfcb484",
+            ["python3.6"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            6,
+            8
+        ]
+    },
+    "giampaolo/psutil": {
+        "ea5b2df02e39816c1f6626dd9d93ae7ede422687": [
+            "93e1c468ab4ac7922472114b3aeeacda2c8676a1",
+            ["python3.7", "python3.8", "python3.9"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            10,
+            7
+        ]
+    },
+    "pytest-dev/pytest": {
+        "b47b488e3dca00d241daaccf4d155a2440a8d0ae": [
+            "143e3ab84631280ddf7f031e4c6f91ca4ac2b500",
+            ["python3.5", "python3.6", "python3.7", "python3.8", "python3.9"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            10,
+            7
+        ],
+        "c8cfff6de5d57c59d7a394f45678386f4d0b5015": [
+            "e6e300e729dd33956e5448d8be9a0b1540b4e53a",
+            ["python3.6", "python3.7", "python3.8", "python3.9"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            10,
+            4
+        ],
+        "1ae4182e1836000eb35a40ec4c3dbb2689e0c5ae": [
+            "e377c884951d3ae1d9cfb5c0a5ce5726f0a3da32",
+            ["python3.6", "python3.7", "python3.8", "python3.9"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            7,
+            6
+        ],
+        "1780924b279a80aa3cccd840229dfe3e6f60e88b": [
+            "c98bc4cd3d687fe9b392d8eecd905627191d4f06",
+            ["python3.6", "python3.7", "python3.8", "python3.9"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            8,
+            0
+        ]
+    },
+    "saltstack/salt": {
+        "0af4aacc94306bb97aeea00492c8f27266fe8b21": [
+            "e2218815b3f902e7da08c1078e84e57945542239",
+            ["python3.5", "python3.6", "python3.7", "python3.8", "python3.9"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest tests/pytests"],
+            9,
+            2
+        ]
+    },
+    "scipy/scipy": {
+        "06842ee3fbf1cdeb4f67735e717ab78fdb1fb82e": [
+            "28d4244b6f5c1543755e586f27f9261d0f84153b",
+            ["python3.6", "python3.7", "python3.8"],
+            ["pip install -I --no-deps -e .", "python runtests.py -b"],
+            ["python -m pytest -k 'not test_concatenate_int32_overflow'"],
+            6,
+            7
+        ],
+        "579630a33840c84b411d794609357a6939936e5c": [
+            "7ed57090b1852e910bbe897d14f00b01f49a9750",
+            ["python3.6", "python3.7", "python3.8"],
+            ["pip install -I --no-deps -e .", "python runtests.py -b"],
+            ["python -m pytest -k 'not test_concatenate_int32_overflow'"],
+            6,
+            5
+        ],
+        "eaead4361dcc615929f774c7a2ea5826adfea2cf": [
+            "9a8a0514c00de86abacf5d0f97fa181bbf65a439",
+            ["python3.6", "python3.7", "python3.8"],
+            ["pip install -I --no-deps -e .", "python runtests.py -b"],
+            ["python -m pytest -k 'not test_concatenate_int32_overflow'"],
+            6,
+            5
+        ],
+        "74cf9764a17c1690f4c6187f9806e324792f545f": [
+            "411fbbda0f942fcce3e4b314efb11c4553baaa7c",
+            ["python3.6", "python3.7", "python3.8"],
+            ["pip install -I --no-deps -e .", "python runtests.py -b"],
+            ["python -m pytest -k 'not test_concatenate_int32_overflow'"],
+            2,
+            7
+        ]
+    },
+    "searx/searx": {
+        "230a5ecd04efd48363588f89a7facd6fc0ed89e9": [
+            "17b48ff6e858b0c74116068cf6444bd578bbb747",
+            ["python3.5", "python3.6", "python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest --continue-on-collection-errors"],
+            5,
+            3
+        ]
+    },
+    "matrix-org/synapse": {
+        "3f8f96be00104e1d1d42fde8e513985fc66201bf": [
+            "3f49f74610197d32fe73678cabc10f08732e66b8",
+            ["python3.5", "python3.6", "python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest --continue-on-collection-errors"],
+            10,
+            0
+        ],
+        "02f345d053db79b92e00c364a2276dfbd64cc9ff": [
+            "139bc86f3d4780a8850918e880200d5bb9cbcd8d",
+            ["python3.5", "python3.6", "python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest --continue-on-collection-errors"],
+            10,
+            8
+        ]
+    },
+    "tornadoweb/tornado": {
+        "91202ce50dd9594d82fcf8125d80e7c39198013a": [
+            "7a70e1ca93d1f76c9738ce49026eb7af6f894af2",
+            ["python3.5", "python3.6", "python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest --continue-on-collection-errors"],
+            0,
+            1
+        ],
+        "41a604025ad1ea23c556baa3943b6b6db4108d9e": [
+            "c19e8ff820d1952da33e6b4a80c4ef2d1c008bed",
+            ["python3.5", "python3.6", "python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest --continue-on-collection-errors"],
+            0,
+            1
+        ],
+        "ef034425b520bcf11f29d97c4355d7dcc9325e03": [
+            "729f1d904225c5d1b15571f125207c319b22616a",
+            ["python3.5", "python3.6", "python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest --continue-on-collection-errors"],
+            4,
+            8
+        ]
+    },
+    "python-trio/trio": {
+        "5cfce026f87cc11f1eda540ea96ae55e8ab4fb09": [
+            "dd4dbe0429d2efbe880e4fa609f47413f96cef64",
+            ["python3.6", "python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest trio"],
+            7,
+            7
+        ],
+        "853bd3436e00be6faf10921b9363464713ab816d": [
+            "9578b92ab830b0dcc111bf2d4c0d20b59dd7ae27",
+            ["python3.6", "python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest trio"],
+            1,
+            7
+        ],
+        "28af4b133c88e3524097200f18270c67db5dd91c": [
+            "af276c6cd301311b224be6e221031ffb1da50e55",
+            ["python3.6", "python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest trio"],
+            1,
+            8
+        ],
+        "949df92d3608db6cb585928b161a17b580d1e384": [
+            "18992fcd629ec8206ccd4c343de8b4db347ab903",
+            ["python3.6", "python3.7"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest trio --run-slow"],
+            0,
+            7
+        ]
+    },
+    "urllib3/urllib3": {
+        "b1f05ae1bf5003961c076e73c02c46b9575bff36": [
+            "81e83292214831f4dc3aebd9fc0d516ea48a22f5",
+            ["python3.5", "python3.6", "python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            4,
+            1
+        ],
+        "065404601431a913fce712e69c2e8b4b651d6e3a": [
+            "263da24d4b5c33392772e638b12d02e5b07abf9f",
+            ["python3.5", "python3.6", "python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            4,
+            1
+        ],
+        "7cb6b5d91fcd57d21285a05588e02a2ad1605f2b": [
+            "dee0fc20a91acb6808958086eabe5d9e3345dea3",
+            ["python3.5", "python3.6", "python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            7,
+            4
+        ],
+        "29041a282f972da7a96776d43f1043d8a6708379": [
+            "fbd67aa19c10590383c7565c4555d3882db94329",
+            ["python3.5", "python3.6", "python3.7", "python3.8"],
+            ["pip install -I --no-deps -e ."],
+            ["python -m pytest"],
+            4,
+            1
+        ]
+    }
+}

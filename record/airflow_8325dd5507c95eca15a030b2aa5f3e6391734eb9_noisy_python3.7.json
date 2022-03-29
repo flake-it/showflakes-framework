@@ -1,0 +1,6 @@
+{
+    "tests/models/test_serialized_dag.py::SerializedDagModelTest::test_remove_dags": [
+        500,
+        500
+    ]
+}

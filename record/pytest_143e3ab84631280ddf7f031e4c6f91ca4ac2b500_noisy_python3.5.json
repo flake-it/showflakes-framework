@@ -1,0 +1,14 @@
+{
+    "testing/logging/test_reporting.py::test_collection_collect_only_live_logging[-q]": [
+        0,
+        200
+    ],
+    "testing/logging/test_reporting.py::test_collection_collect_only_live_logging[-qq]": [
+        0,
+        200
+    ],
+    "testing/logging/test_reporting.py::test_collection_collect_only_live_logging[]": [
+        0,
+        200
+    ]
+}

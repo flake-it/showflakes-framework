@@ -1,0 +1,1 @@
+test/mitmproxy/proxy/test_server.py::TestStreamRequest::test_stream_chunked

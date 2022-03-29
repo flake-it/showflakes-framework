@@ -1,0 +1,1 @@
+tornado/test/simple_httpclient_test.py::ResolveTimeoutTestCase::test_resolve_timeout

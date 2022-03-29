@@ -1,0 +1,1 @@
+test/geocoders/nominatim.py::NominatimTestCase::test_limit

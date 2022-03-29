@@ -1,0 +1,6 @@
+{
+    "tests/components/plex/test_config_flow.py::test_manual_config[pyloop]": [
+        0,
+        90
+    ]
+}

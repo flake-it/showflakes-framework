@@ -1,0 +1,6 @@
+{
+    "tests/wandb_tensorflow_test.py::test_tensorboard_log_with_wandb_log": [
+        500,
+        500
+    ]
+}

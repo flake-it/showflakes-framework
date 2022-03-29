@@ -1,0 +1,6 @@
+{
+    "test/with_dummyserver/test_socketlevel.py::TestSocketClosing::test_timeout_errors_cause_retries": [
+        1,
+        193
+    ]
+}

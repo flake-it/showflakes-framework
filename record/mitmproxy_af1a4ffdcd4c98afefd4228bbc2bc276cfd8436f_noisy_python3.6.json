@@ -1,0 +1,14 @@
+{
+    "test/mitmproxy/addons/test_clientplayback.py::TestHTTPProxy::test_replay": [
+        0,
+        2
+    ],
+    "test/mitmproxy/addons/test_clientplayback.py::TestHTTPSProxy::test_replay": [
+        2,
+        2
+    ],
+    "test/mitmproxy/addons/test_clientplayback.py::TestUpstreamProxy::test_replay": [
+        1,
+        2
+    ]
+}

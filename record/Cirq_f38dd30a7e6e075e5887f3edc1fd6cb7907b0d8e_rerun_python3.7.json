@@ -1,0 +1,46 @@
+{
+    "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect0]": [
+        0,
+        1000
+    ],
+    "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect1]": [
+        0,
+        1000
+    ],
+    "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect2]": [
+        0,
+        1000
+    ],
+    "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect3]": [
+        0,
+        1000
+    ],
+    "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect4]": [
+        0,
+        1000
+    ],
+    "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect5]": [
+        0,
+        1000
+    ],
+    "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect6]": [
+        0,
+        1000
+    ],
+    "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect7]": [
+        0,
+        1000
+    ],
+    "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect8]": [
+        0,
+        1000
+    ],
+    "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect9]": [
+        0,
+        1000
+    ],
+    "cirq/optimizers/decompositions_test.py::test_single_qubit_matrix_to_native_gates_cases[intended_effect10]": [
+        0,
+        1000
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "tests/rest/client/v1/test_rooms.py::ShadowBannedTestCase::test_create_room": [
+        1,
+        7
+    ],
+    "tests/rest/client/v1/test_rooms.py::ShadowBannedTestCase::test_invite": [
+        0,
+        7
+    ],
+    "tests/rest/client/v1/test_rooms.py::ShadowBannedTestCase::test_invite_3pid": [
+        0,
+        7
+    ]
+}

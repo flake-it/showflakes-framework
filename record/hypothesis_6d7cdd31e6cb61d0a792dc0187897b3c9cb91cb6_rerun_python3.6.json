@@ -1,0 +1,10 @@
+{
+    "hypothesis-python/tests/cover/test_core.py::test_given_shrinks_pytest_helper_errors": [
+        0,
+        1000
+    ],
+    "hypothesis-python/tests/cover/test_core.py::test_pytest_skip_skips_shrinking": [
+        0,
+        1000
+    ]
+}

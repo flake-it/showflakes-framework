@@ -1,0 +1,10 @@
+{
+    "trio/tests/test_subprocess.py::test_basic": [
+        0,
+        334
+    ],
+    "trio/tests/test_subprocess.py::test_auto_update_returncode": [
+        0,
+        334
+    ]
+}

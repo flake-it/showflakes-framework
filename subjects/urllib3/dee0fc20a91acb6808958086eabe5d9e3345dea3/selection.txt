@@ -1,0 +1,1 @@
+test/with_dummyserver/test_chunked_transfer.py::TestChunkedTransfer::test_preserve_chunked_on_retry

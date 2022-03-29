@@ -1,0 +1,14 @@
+{
+    "tests/components/onvif/test_config_flow.py::test_flow_discovered_devices[pyloop]": [
+        0,
+        500
+    ],
+    "tests/components/onvif/test_config_flow.py::test_flow_manual_entry[pyloop]": [
+        0,
+        500
+    ],
+    "tests/components/onvif/test_config_flow.py::test_flow_import_no_mac[pyloop]": [
+        0,
+        500
+    ]
+}

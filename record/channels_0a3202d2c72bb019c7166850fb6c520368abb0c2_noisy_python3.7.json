@@ -1,0 +1,6 @@
+{
+    "tests/test_generic_http.py::test_per_scope_consumers": [
+        0,
+        250
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "tests/test_scalar_ops.py::test_arccosh": [
+        0,
+        1000
+    ]
+}

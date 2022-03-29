@@ -1,0 +1,1 @@
+pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all

@@ -1,0 +1,6 @@
+{
+    "tests/test_cli.py::test_lazy_load_error": [
+        0,
+        1000
+    ]
+}

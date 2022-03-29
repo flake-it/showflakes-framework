@@ -1,0 +1,26 @@
+{
+    "pandas/tests/resample/test_resample_api.py::test_pipe": [
+        0,
+        2
+    ],
+    "pandas/tests/resample/test_resample_api.py::test_getitem": [
+        0,
+        2
+    ],
+    "pandas/tests/resample/test_resample_api.py::test_select_bad_cols[key0]": [
+        1,
+        2
+    ],
+    "pandas/tests/resample/test_resample_api.py::test_select_bad_cols[key1]": [
+        1,
+        2
+    ],
+    "pandas/tests/resample/test_resample_api.py::test_attribute_access": [
+        0,
+        2
+    ],
+    "pandas/tests/resample/test_resample_api.py::tests_skip_nuisance": [
+        0,
+        2
+    ]
+}

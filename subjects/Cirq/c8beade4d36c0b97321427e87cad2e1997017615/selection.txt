@@ -1,0 +1,4 @@
+cirq/experiments/n_qubit_tomography_test.py::test_state_tomography_diagonal
+cirq/experiments/n_qubit_tomography_test.py::test_state_tomography_ghz_state
+cirq/experiments/n_qubit_tomography_test.py::test_density_matrix_from_state_tomography_is_correct
+cirq/experiments/n_qubit_tomography_test.py::test_agrees_with_two_qubit_state_tomography

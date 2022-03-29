@@ -1,0 +1,10 @@
+hypothesis-python/tests/cover/test_datetimes.py::test_can_find_each_month
+hypothesis-python/tests/cover/test_numerics.py::test_decimals_include_inf
+hypothesis-python/tests/cover/test_regex.py::test_any_with_dotall_generate_newline
+hypothesis-python/tests/cover/test_regex.py::test_any_with_dotall_generate_newline_binary
+hypothesis-python/tests/cover/test_regex.py::test_fullmatch_generates_example
+hypothesis-python/tests/cover/test_slices.py::test_stop_will_equal_size
+hypothesis-python/tests/cover/test_slices.py::test_start_will_equal_size
+hypothesis-python/tests/numpy/test_gen_data.py::test_broadcastable_shape_can_generate_arbitrary_ndims
+hypothesis-python/tests/pandas/test_data_frame.py::test_uniqueness_does_not_affect_other_rows_2
+hypothesis-python/tests/quality/test_float_shrinking.py::test_shrinks_downwards_to_integers_when_fractional

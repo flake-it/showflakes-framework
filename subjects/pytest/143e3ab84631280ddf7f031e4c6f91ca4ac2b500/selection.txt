@@ -1,0 +1,1 @@
+testing/logging/test_reporting.py::test_collection_collect_only_live_logging

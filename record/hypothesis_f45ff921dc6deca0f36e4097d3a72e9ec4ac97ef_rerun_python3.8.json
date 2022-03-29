@@ -1,0 +1,6 @@
+{
+    "hypothesis-python/tests/cover/test_testdecorators.py::test_when_set_to_no_simplifies_runs_failing_example_twice": [
+        0,
+        1000
+    ]
+}

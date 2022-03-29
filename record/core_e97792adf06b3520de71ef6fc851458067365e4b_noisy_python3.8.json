@@ -1,0 +1,6 @@
+{
+    "tests/components/huawei_lte/test_config_flow.py::test_success[pyloop]": [
+        0,
+        500
+    ]
+}

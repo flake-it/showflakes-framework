@@ -1,0 +1,906 @@
+{
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[alpha-arg0]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[anglit-arg1]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[arcsine-arg2]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[argus-arg3]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[beta-arg4]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[betaprime-arg5]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[bradford-arg6]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[burr-arg7]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[burr12-arg8]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[cauchy-arg9]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[chi-arg10]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[chi2-arg11]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[cosine-arg12]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[crystalball-arg13]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[dgamma-arg14]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[dweibull-arg15]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[erlang-arg16]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[expon-arg17]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[exponnorm-arg18]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[exponpow-arg19]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[exponweib-arg20]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[f-arg21]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[fatiguelife-arg22]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[fisk-arg23]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[foldcauchy-arg24]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[foldnorm-arg25]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gamma-arg26]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gausshyper-arg27]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[genexpon-arg28]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[genextreme-arg29]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gengamma-arg30]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gengamma-arg31]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[genhalflogistic-arg32]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[geninvgauss-arg33]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[genlogistic-arg34]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gennorm-arg35]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[halfgennorm-arg36]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[genpareto-arg37]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gilbrat-arg38]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gompertz-arg39]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gumbel_l-arg40]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[gumbel_r-arg41]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[halfcauchy-arg42]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[halflogistic-arg43]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[halfnorm-arg44]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[hypsecant-arg45]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[invgamma-arg46]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[invgauss-arg47]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[invweibull-arg48]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[johnsonsb-arg49]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[johnsonsu-arg50]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[kappa4-arg51]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[kappa4-arg52]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[kappa4-arg53]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[kappa4-arg54]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[kappa3-arg55]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[ksone-arg56]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[kstwo-arg57]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[kstwobign-arg58]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[laplace-arg59]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[levy-arg60]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[levy_l-arg61]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[loggamma-arg62]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[logistic-arg63]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[loglaplace-arg64]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[lognorm-arg65]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[loguniform-arg66]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[lomax-arg67]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[maxwell-arg68]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[mielke-arg69]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[moyal-arg70]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[nakagami-arg71]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[ncf-arg72]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[nct-arg73]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[ncx2-arg74]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[norm-arg75]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[norminvgauss-arg76]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[pareto-arg77]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[pearson3-arg78]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[powerlaw-arg79]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[powerlognorm-arg80]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[powernorm-arg81]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[rayleigh-arg82]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[rdist-arg83]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[recipinvgauss-arg84]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[reciprocal-arg85]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[rice-arg86]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[semicircular-arg87]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[skewnorm-arg88]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[t-arg89]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[trapz-arg90]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[triang-arg91]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[truncexpon-arg92]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[truncnorm-arg93]": [
+        0,
+        0
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[truncnorm-arg94]": [
+        0,
+        0
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[tukeylambda-arg95]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[uniform-arg96]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[vonmises-arg97]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[vonmises_line-arg98]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[wald-arg99]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[weibull_max-arg100]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[weibull_min-arg101]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[wrapcauchy-arg102]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_cont_basic[distname103-arg103]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[alpha-arg0]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[anglit-arg1]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[arcsine-arg2]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[argus-arg3]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[beta-arg4]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[betaprime-arg5]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[bradford-arg6]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[burr-arg7]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[burr12-arg8]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[cauchy-arg9]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[chi-arg10]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[chi2-arg11]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[cosine-arg12]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[crystalball-arg13]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[dgamma-arg14]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[dweibull-arg15]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[erlang-arg16]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[expon-arg17]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[exponnorm-arg18]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[exponpow-arg19]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[exponweib-arg20]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[f-arg21]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[fatiguelife-arg22]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[fisk-arg23]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[foldcauchy-arg24]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[foldnorm-arg25]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gamma-arg26]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gausshyper-arg27]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[genexpon-arg28]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[genextreme-arg29]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gengamma-arg30]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gengamma-arg31]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[genhalflogistic-arg32]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[geninvgauss-arg33]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[genlogistic-arg34]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gennorm-arg35]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[halfgennorm-arg36]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[genpareto-arg37]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gilbrat-arg38]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gompertz-arg39]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gumbel_l-arg40]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[gumbel_r-arg41]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[halfcauchy-arg42]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[halflogistic-arg43]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[halfnorm-arg44]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[hypsecant-arg45]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[invgamma-arg46]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[invgauss-arg47]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[invweibull-arg48]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[johnsonsb-arg49]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[johnsonsu-arg50]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[kappa4-arg51]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[kappa4-arg52]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[kappa4-arg53]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[kappa4-arg54]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[kappa3-arg55]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[ksone-arg56]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[kstwo-arg57]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[kstwobign-arg58]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[laplace-arg59]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[levy-arg60]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[levy_l-arg61]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[loggamma-arg62]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[logistic-arg63]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[loglaplace-arg64]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[lognorm-arg65]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[loguniform-arg66]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[lomax-arg67]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[maxwell-arg68]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[mielke-arg69]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[moyal-arg70]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[nakagami-arg71]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[ncf-arg72]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[nct-arg73]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[ncx2-arg74]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[norm-arg75]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[norminvgauss-arg76]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[pareto-arg77]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[pearson3-arg78]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[powerlaw-arg79]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[powerlognorm-arg80]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[powernorm-arg81]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[rayleigh-arg82]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[rdist-arg83]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[recipinvgauss-arg84]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[reciprocal-arg85]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[rice-arg86]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[semicircular-arg87]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[skewnorm-arg88]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[t-arg89]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[trapz-arg90]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[triang-arg91]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[truncexpon-arg92]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[truncnorm-arg93]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[truncnorm-arg94]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[tukeylambda-arg95]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[uniform-arg96]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[vonmises-arg97]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[vonmises_line-arg98]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[wald-arg99]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[weibull_max-arg100]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[weibull_min-arg101]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[wrapcauchy-arg102]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar[distname103-arg103]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_morestats.py::TestProbplot::test_sparams_keyword": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_morestats.py::TestProbplot::test_dist_keyword": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_morestats.py::TestProbplot::test_plot_kwarg": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_morestats.py::TestPpccPlot::test_dist": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_morestats.py::TestBoxcox_llf::test_basic": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_morestats.py::TestBoxcox_llf::test_array_like": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_morestats.py::TestBoxcox_llf::test_2d_input": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_morestats.py::TestBoxcox::test_fixed_lmbda": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_morestats.py::TestBoxcox::test_lmbda_None": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_morestats.py::TestBoxcox::test_alpha": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_morestats.py::TestYeojohnson_llf::test_array_like": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_morestats.py::TestYeojohnson_llf::test_2d_input": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_morestats.py::TestYeojohnson::test_fixed_lmbda": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_morestats.py::TestYeojohnson::test_lmbda_None[0]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_morestats.py::TestYeojohnson::test_lmbda_None[0.1]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_morestats.py::TestYeojohnson::test_lmbda_None[0.5]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_morestats.py::TestYeojohnson::test_lmbda_None[2]": [
+        0,
+        334
+    ],
+    "scipy/stats/tests/test_morestats.py::TestYeojohnson::test_array_like": [
+        0,
+        334
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "t/unit/transport/test_consumer.py::test_Consumer::test_commit_handler": [
+        1,
+        145
+    ]
+}

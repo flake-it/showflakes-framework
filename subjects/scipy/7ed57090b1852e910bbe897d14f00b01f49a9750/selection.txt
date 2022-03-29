@@ -1,0 +1,17 @@
+scipy/stats/tests/test_morestats.py::TestYeojohnson::test_array_like
+scipy/stats/tests/test_morestats.py::TestBoxcox::test_alpha
+scipy/stats/tests/test_morestats.py::TestProbplot::test_dist_keyword
+scipy/stats/tests/test_morestats.py::TestBoxcox_llf::test_basic
+scipy/stats/tests/test_morestats.py::TestProbplot::test_plot_kwarg
+scipy/stats/tests/test_morestats.py::TestBoxcox::test_lmbda_None
+scipy/stats/tests/test_morestats.py::TestProbplot::test_sparams_keyword
+scipy/stats/tests/test_morestats.py::TestYeojohnson::test_lmbda_None
+scipy/stats/tests/test_morestats.py::TestBoxcox::test_fixed_lmbda
+scipy/stats/tests/test_continuous_basic.py::test_rvs_scalar
+scipy/stats/tests/test_continuous_basic.py::test_cont_basic
+scipy/stats/tests/test_morestats.py::TestPpccPlot::test_dist
+scipy/stats/tests/test_morestats.py::TestBoxcox_llf::test_array_like
+scipy/stats/tests/test_morestats.py::TestBoxcox_llf::test_2d_input
+scipy/stats/tests/test_morestats.py::TestYeojohnson_llf::test_array_like
+scipy/stats/tests/test_morestats.py::TestYeojohnson_llf::test_2d_input
+scipy/stats/tests/test_morestats.py::TestYeojohnson::test_fixed_lmbda

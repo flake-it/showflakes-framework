@@ -1,0 +1,6 @@
+{
+    "pandas/tests/test_downstream.py::test_missing_required_dependency": [
+        0,
+        1000
+    ]
+}

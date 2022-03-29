@@ -1,0 +1,58 @@
+{
+    "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[ps-portrait]": [
+        0,
+        500
+    ],
+    "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[ps-landscape]": [
+        0,
+        500
+    ],
+    "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[ps with distiller=ghostscript-portrait]": [
+        0,
+        500
+    ],
+    "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[ps with distiller=ghostscript-landscape]": [
+        0,
+        500
+    ],
+    "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[ps with distiller=xpdf-portrait]": [
+        0,
+        500
+    ],
+    "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[ps with distiller=xpdf-landscape]": [
+        0,
+        500
+    ],
+    "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[ps with usetex-portrait]": [
+        0,
+        0
+    ],
+    "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[ps with usetex-landscape]": [
+        0,
+        0
+    ],
+    "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[eps-portrait]": [
+        0,
+        500
+    ],
+    "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[eps-landscape]": [
+        0,
+        500
+    ],
+    "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[eps afm-portrait]": [
+        0,
+        500
+    ],
+    "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[eps afm-landscape]": [
+        0,
+        500
+    ],
+    "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[eps with usetex-portrait]": [
+        0,
+        0
+    ],
+    "lib/matplotlib/tests/test_backend_ps.py::test_savefig_to_stringio[eps with usetex-landscape]": [
+        0,
+        0
+    ]
+}

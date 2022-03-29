@@ -1,0 +1,38 @@
+{
+    "testing/acceptance_test.py::TestDurations::test_calls": [
+        0,
+        250
+    ],
+    "testing/acceptance_test.py::TestDurations::test_calls_show_2": [
+        0,
+        250
+    ],
+    "testing/acceptance_test.py::TestDurations::test_calls_showall": [
+        0,
+        250
+    ],
+    "testing/acceptance_test.py::TestDurations::test_calls_showall_verbose": [
+        0,
+        250
+    ],
+    "testing/acceptance_test.py::TestDurations::test_with_deselected": [
+        0,
+        250
+    ],
+    "testing/acceptance_test.py::TestDurations::test_with_failing_collection": [
+        0,
+        250
+    ],
+    "testing/acceptance_test.py::TestDurations::test_with_not": [
+        0,
+        250
+    ],
+    "testing/acceptance_test.py::TestDurationsWithFixture::test_setup_function": [
+        0,
+        250
+    ],
+    "testing/test_junitxml.py::TestPython::test_timing_function": [
+        0,
+        250
+    ]
+}

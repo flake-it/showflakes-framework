@@ -1,0 +1,6 @@
+{
+    "hypothesis-python/tests/nocover/test_database_usage.py::test_respects_max_examples_in_database_usage": [
+        1,
+        175
+    ]
+}

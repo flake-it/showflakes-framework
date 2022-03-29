@@ -1,0 +1,6 @@
+{
+    "tests/test_funcutils_fb_py37.py::test_wraps_async": [
+        0,
+        1000
+    ]
+}

@@ -1,0 +1,5 @@
+scipy/stats/tests/test_morestats.py::TestShapiro::test_basic
+scipy/stats/tests/test_stats.py::TestKSOneSample::test_known_examples
+scipy/stats/tests/test_mstats_basic.py::test_siegelslopes
+scipy/stats/tests/test_stats.py::TestStudentTest::test_onesample
+scipy/stats/tests/test_morestats.py::TestProbplot::test_basic

@@ -1,0 +1,2 @@
+testing/acceptance_test.py::test_warn_on_async_function
+testing/acceptance_test.py::test_warn_on_async_gen_function

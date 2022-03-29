@@ -1,0 +1,6 @@
+{
+    "tornado/test/process_test.py::SubprocessTest::test_sigchild_signal": [
+        1,
+        562
+    ]
+}

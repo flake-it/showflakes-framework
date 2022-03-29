@@ -1,0 +1,2 @@
+test/test_conn.py::test_blacked_out
+test/test_conn.py::test_connection_delay

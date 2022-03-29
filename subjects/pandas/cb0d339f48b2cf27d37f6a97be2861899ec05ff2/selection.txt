@@ -1,0 +1,2 @@
+pandas/tests/io/pytables/test_select.py::test_select_as_multiple
+pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs

@@ -1,0 +1,1 @@
+dask/tests/test_threaded.py::test_interrupt

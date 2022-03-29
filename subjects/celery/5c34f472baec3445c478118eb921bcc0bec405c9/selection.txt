@@ -1,0 +1,2 @@
+t/unit/concurrency/test_thread.py::test_thread_TaskPool::test_on_apply
+t/unit/concurrency/test_thread.py::test_thread_TaskPool::test_info

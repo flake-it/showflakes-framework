@@ -1,0 +1,3 @@
+[submodule "showflakes"]
+	path = showflakes
+	url = git@github.com:flake-it/showflakes.git

@@ -1,0 +1,6 @@
+{
+    "tests/test_raft.py::TestKVStoreTTL::test_retry": [
+        0,
+        1000
+    ]
+}

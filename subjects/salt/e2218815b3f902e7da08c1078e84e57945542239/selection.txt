@@ -1,0 +1,1 @@
+tests/pytests/unit/modules/test_pkg_resource.py::test_format_pkg_list_with_attr

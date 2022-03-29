@@ -1,0 +1,1 @@
+tests/components/dyson/test_climate.py::test_purehotcool_empty_env_attributes

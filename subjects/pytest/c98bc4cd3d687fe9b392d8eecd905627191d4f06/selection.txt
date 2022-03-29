@@ -1,0 +1,9 @@
+testing/acceptance_test.py::TestDurations::test_calls
+testing/acceptance_test.py::TestDurations::test_calls_show_2
+testing/acceptance_test.py::TestDurations::test_calls_showall
+testing/acceptance_test.py::TestDurations::test_calls_showall_verbose
+testing/acceptance_test.py::TestDurations::test_with_deselected
+testing/acceptance_test.py::TestDurations::test_with_failing_collection
+testing/acceptance_test.py::TestDurations::test_with_not
+testing/acceptance_test.py::TestDurationsWithFixture::test_setup_function
+testing/test_junitxml.py::TestPython::test_timing_function

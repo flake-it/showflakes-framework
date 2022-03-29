@@ -1,0 +1,1 @@
+pandas/tests/series/test_analytics.py::TestCategoricalSeriesAnalytics::test_drop_duplicates_categorical_non_bool

@@ -1,0 +1,5 @@
+pandas/tests/resample/test_resample_api.py::test_pipe
+pandas/tests/resample/test_resample_api.py::test_getitem
+pandas/tests/resample/test_resample_api.py::test_select_bad_cols
+pandas/tests/resample/test_resample_api.py::test_attribute_access
+pandas/tests/resample/test_resample_api.py::tests_skip_nuisance

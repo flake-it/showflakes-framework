@@ -1,0 +1,10 @@
+{
+    "test/test_conn.py::test_connection_delay": [
+        0,
+        334
+    ],
+    "test/test_conn.py::test_blacked_out": [
+        0,
+        334
+    ]
+}

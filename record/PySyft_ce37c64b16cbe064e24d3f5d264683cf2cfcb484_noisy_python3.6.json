@@ -1,0 +1,18 @@
+{
+    "test/federated/test_federated_client.py::test_fit[gaussian_mixture-1-cpu]": [
+        0,
+        24
+    ],
+    "test/federated/test_federated_client.py::test_fit[gaussian_mixture-10-cpu]": [
+        1,
+        24
+    ],
+    "test/federated/test_federated_client.py::test_fit[another_dataset-1-cpu]": [
+        0,
+        24
+    ],
+    "test/federated/test_federated_client.py::test_fit[gaussian_mixture-10-cuda]": [
+        0,
+        24
+    ]
+}

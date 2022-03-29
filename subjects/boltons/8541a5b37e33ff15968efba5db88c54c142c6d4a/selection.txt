@@ -1,0 +1,1 @@
+tests/test_funcutils_fb_py37.py::test_wraps_async

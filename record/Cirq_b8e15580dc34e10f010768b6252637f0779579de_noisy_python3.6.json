@@ -1,0 +1,14 @@
+{
+    "cirq/contrib/acquaintance/gates_test.py::test_acquaint_part_pairs[part_lens0]": [
+        0,
+        1000
+    ],
+    "cirq/contrib/acquaintance/gates_test.py::test_acquaint_part_pairs[part_lens1]": [
+        0,
+        1000
+    ],
+    "cirq/contrib/acquaintance/gates_test.py::test_acquaint_part_pairs[part_lens2]": [
+        0,
+        1000
+    ]
+}

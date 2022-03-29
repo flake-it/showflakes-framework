@@ -1,0 +1,6 @@
+{
+    "hypothesis-python/tests/cover/test_slippage.py::test_raises_multiple_failures_with_varying_type": [
+        0,
+        500
+    ]
+}

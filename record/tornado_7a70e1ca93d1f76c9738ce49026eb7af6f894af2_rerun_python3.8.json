@@ -1,0 +1,6 @@
+{
+    "tornado/test/testing_test.py::AsyncTestCaseTest::test_subsequent_wait_calls": [
+        0,
+        1000
+    ]
+}

@@ -1,0 +1,4 @@
+testing/test_stepwise.py::test_fail_and_continue_with_stepwise
+testing/test_stepwise.py::test_run_with_skip_option
+testing/test_stepwise.py::test_fail_on_errors
+testing/test_stepwise.py::test_change_testfile

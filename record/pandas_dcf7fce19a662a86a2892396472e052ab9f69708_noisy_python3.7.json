@@ -1,0 +1,38 @@
+{
+    "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_csv-writer_kwargs0-os]": [
+        0,
+        1000
+    ],
+    "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_excel-writer_kwargs1-xlwt]": [
+        0,
+        1000
+    ],
+    "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_feather-writer_kwargs2-feather]": [
+        0,
+        0
+    ],
+    "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_html-writer_kwargs3-os]": [
+        0,
+        1000
+    ],
+    "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_json-writer_kwargs4-os]": [
+        0,
+        1000
+    ],
+    "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_latex-writer_kwargs5-os]": [
+        0,
+        1000
+    ],
+    "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_msgpack-writer_kwargs6-os]": [
+        0,
+        1000
+    ],
+    "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_pickle-writer_kwargs7-os]": [
+        0,
+        1000
+    ],
+    "pandas/tests/io/test_common.py::TestCommonIOCapabilities::test_write_fspath_all[to_stata-writer_kwargs8-os]": [
+        0,
+        1000
+    ]
+}

@@ -1,0 +1,1 @@
+tests/unit/test_standalone_searx.py::StandaloneSearx::test_get_search_query

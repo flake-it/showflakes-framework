@@ -1,0 +1,22 @@
+{
+    "scipy/stats/tests/test_morestats.py::TestShapiro::test_basic": [
+        0,
+        1000
+    ],
+    "scipy/stats/tests/test_morestats.py::TestProbplot::test_basic": [
+        0,
+        1000
+    ],
+    "scipy/stats/tests/test_mstats_basic.py::test_siegelslopes": [
+        0,
+        1000
+    ],
+    "scipy/stats/tests/test_stats.py::TestStudentTest::test_onesample": [
+        0,
+        1000
+    ],
+    "scipy/stats/tests/test_stats.py::TestKSOneSample::test_known_examples": [
+        0,
+        1000
+    ]
+}

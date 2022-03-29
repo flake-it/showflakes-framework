@@ -1,0 +1,1 @@
+cirq/contrib/acquaintance/gates_test.py::test_acquaint_part_pairs

@@ -1,0 +1,10 @@
+{
+    "t/regression/i323/test_autodiscover.py::test_main": [
+        1,
+        104
+    ],
+    "t/regression/i324/test_autodiscover.py::test_main": [
+        0,
+        104
+    ]
+}

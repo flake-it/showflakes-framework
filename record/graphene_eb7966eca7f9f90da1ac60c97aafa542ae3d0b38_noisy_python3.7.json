@@ -1,0 +1,26 @@
+{
+    "graphene/types/tests/test_datetime.py::test_date_query": [
+        0,
+        17
+    ],
+    "graphene/types/tests/test_datetime.py::test_time_query": [
+        0,
+        17
+    ],
+    "graphene/types/tests/test_datetime.py::test_datetime_query_variable": [
+        0,
+        17
+    ],
+    "graphene/types/tests/test_datetime.py::test_date_query_variable": [
+        0,
+        17
+    ],
+    "graphene/types/tests/test_datetime.py::test_time_query_variable": [
+        1,
+        17
+    ],
+    "graphene/types/tests/test_datetime.py::test_bad_variables": [
+        0,
+        0
+    ]
+}

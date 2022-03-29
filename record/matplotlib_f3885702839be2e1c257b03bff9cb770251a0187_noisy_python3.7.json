@@ -1,0 +1,10 @@
+{
+    "lib/mpl_toolkits/tests/test_axes_grid.py::test_imagegrid_cbar_mode_edge[png-False]": [
+        0,
+        500
+    ],
+    "lib/mpl_toolkits/tests/test_axes_grid.py::test_imagegrid_cbar_mode_edge[png-True]": [
+        0,
+        500
+    ]
+}

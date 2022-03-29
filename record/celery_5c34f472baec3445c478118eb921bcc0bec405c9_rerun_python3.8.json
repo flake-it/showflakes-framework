@@ -1,0 +1,10 @@
+{
+    "t/unit/concurrency/test_thread.py::test_thread_TaskPool::test_on_apply": [
+        1,
+        14
+    ],
+    "t/unit/concurrency/test_thread.py::test_thread_TaskPool::test_info": [
+        0,
+        14
+    ]
+}

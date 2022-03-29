@@ -1,0 +1,3 @@
+tests/components/onvif/test_config_flow.py::test_flow_discovered_devices
+tests/components/onvif/test_config_flow.py::test_flow_manual_entry
+tests/components/onvif/test_config_flow.py::test_flow_import_no_mac

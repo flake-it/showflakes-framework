@@ -1,0 +1,1 @@
+trio/tests/test_threads.py::test_run_in_worker_thread_abandoned

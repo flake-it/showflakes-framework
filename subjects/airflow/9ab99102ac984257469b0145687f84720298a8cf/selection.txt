@@ -1,0 +1,1 @@
+tests/jobs/test_local_task_job.py::TestLocalTaskJob::test_mark_failure_on_failure_callback

@@ -1,0 +1,3 @@
+tests/rest/client/v1/test_rooms.py::ShadowBannedTestCase::test_create_room
+tests/rest/client/v1/test_rooms.py::ShadowBannedTestCase::test_invite
+tests/rest/client/v1/test_rooms.py::ShadowBannedTestCase::test_invite_3pid

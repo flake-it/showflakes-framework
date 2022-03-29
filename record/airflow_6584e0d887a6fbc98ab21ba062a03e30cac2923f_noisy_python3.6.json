@@ -1,0 +1,6 @@
+{
+    "tests/jobs/test_local_task_job.py::TestLocalTaskJob::test_heartbeat_failed_fast": [
+        1,
+        40
+    ]
+}

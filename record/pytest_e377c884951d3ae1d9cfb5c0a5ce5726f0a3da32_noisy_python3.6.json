@@ -1,0 +1,18 @@
+{
+    "testing/test_stepwise.py::test_fail_and_continue_with_stepwise": [
+        0,
+        250
+    ],
+    "testing/test_stepwise.py::test_run_with_skip_option": [
+        0,
+        250
+    ],
+    "testing/test_stepwise.py::test_fail_on_errors": [
+        0,
+        250
+    ],
+    "testing/test_stepwise.py::test_change_testfile": [
+        0,
+        250
+    ]
+}

@@ -1,0 +1,3 @@
+test/mitmproxy/addons/test_clientplayback.py::TestHTTPProxy::test_replay
+test/mitmproxy/addons/test_clientplayback.py::TestHTTPSProxy::test_replay
+test/mitmproxy/addons/test_clientplayback.py::TestUpstreamProxy::test_replay

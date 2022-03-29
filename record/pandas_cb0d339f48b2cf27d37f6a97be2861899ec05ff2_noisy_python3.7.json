@@ -1,0 +1,38 @@
+{
+    "pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs[gzip-utf-8]": [
+        0,
+        13
+    ],
+    "pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs[gzip-cp1251]": [
+        0,
+        13
+    ],
+    "pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs[bz2-utf-8]": [
+        0,
+        13
+    ],
+    "pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs[bz2-cp1251]": [
+        0,
+        13
+    ],
+    "pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs[zip-utf-8]": [
+        0,
+        13
+    ],
+    "pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs[zip-cp1251]": [
+        0,
+        13
+    ],
+    "pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs[xz-utf-8]": [
+        0,
+        13
+    ],
+    "pandas/tests/io/test_gcs.py::test_to_csv_compression_encoding_gcs[xz-cp1251]": [
+        0,
+        13
+    ],
+    "pandas/tests/io/pytables/test_select.py::test_select_as_multiple": [
+        1,
+        13
+    ]
+}

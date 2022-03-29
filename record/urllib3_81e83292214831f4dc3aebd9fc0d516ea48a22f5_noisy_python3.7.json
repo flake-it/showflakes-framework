@@ -1,0 +1,6 @@
+{
+    "test/with_dummyserver/test_socketlevel.py::TestSocketClosing::test_read_timeout_dont_retry_method_not_in_whitelist": [
+        0,
+        250
+    ]
+}

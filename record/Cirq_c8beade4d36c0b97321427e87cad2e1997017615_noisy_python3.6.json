@@ -1,0 +1,42 @@
+{
+    "cirq/experiments/n_qubit_tomography_test.py::test_state_tomography_diagonal": [
+        0,
+        155
+    ],
+    "cirq/experiments/n_qubit_tomography_test.py::test_state_tomography_ghz_state": [
+        0,
+        155
+    ],
+    "cirq/experiments/n_qubit_tomography_test.py::test_density_matrix_from_state_tomography_is_correct[circuit0-qubits0]": [
+        0,
+        155
+    ],
+    "cirq/experiments/n_qubit_tomography_test.py::test_density_matrix_from_state_tomography_is_correct[circuit1-qubits1]": [
+        0,
+        155
+    ],
+    "cirq/experiments/n_qubit_tomography_test.py::test_density_matrix_from_state_tomography_is_correct[circuit2-qubits2]": [
+        0,
+        155
+    ],
+    "cirq/experiments/n_qubit_tomography_test.py::test_density_matrix_from_state_tomography_is_correct[circuit3-qubits3]": [
+        0,
+        155
+    ],
+    "cirq/experiments/n_qubit_tomography_test.py::test_density_matrix_from_state_tomography_is_correct[circuit4-qubits4]": [
+        0,
+        155
+    ],
+    "cirq/experiments/n_qubit_tomography_test.py::test_agrees_with_two_qubit_state_tomography[circuit0]": [
+        0,
+        155
+    ],
+    "cirq/experiments/n_qubit_tomography_test.py::test_agrees_with_two_qubit_state_tomography[circuit1]": [
+        0,
+        155
+    ],
+    "cirq/experiments/n_qubit_tomography_test.py::test_agrees_with_two_qubit_state_tomography[circuit2]": [
+        1,
+        155
+    ]
+}
